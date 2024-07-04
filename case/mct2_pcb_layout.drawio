@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-07-04T15:54:50.132Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="JbCI7m6RNuaJQz9uxJ6s" version="24.6.4" type="device">
+  <diagram name="Page-1" id="_52FcOgEGnPiSp6zgUy1">
+    <mxGraphModel dx="1793" dy="1053" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rwfblAppZz15rpqqRNAp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="5.684341886080802e-14" y="-2.398081733190338e-14" width="1212.596" height="787.4" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffffff;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="3.2862601528904634e-14" width="1212.596" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffffff;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="0.0024999999999977263" y="748.0325" width="1212.596" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffffff;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="39.36999999999998" width="39.37" height="708.66" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1173.2225" y="39.37249999999998" width="39.37" height="708.66" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="39.370000000000005" y="39.37" width="39.37" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="39.367000000000004" y="708.657" width="39.37" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1133.854" y="708.654" width="39.37" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1133.8509999999999" y="39.37099999999998" width="39.37" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="78.74" y="39.37" width="1055.12" height="19.69" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="78.74" y="728.34" width="1055.116" height="19.69" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="39.36699999999996" y="78.737" width="19.68" height="629.92" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="543.3" y="78.74" width="629.92" height="629.92" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-23" value="USB 3.0&lt;div&gt;x2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1102.3600000000001" y="102.36000000000001" width="70.866" height="59.055" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-24" value="USB 3.0&lt;div&gt;x2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1102.357" y="173.22700000000003" width="70.866" height="59.055" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="692.92" y="303.149" width="291.33799999999997" height="255.90100000000007" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-21" value="LattePanda Mu" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;" vertex="1" parent="rwfblAppZz15rpqqRNAp-26">
+          <mxGeometry x="7.869999999999777" y="19.68100000000004" width="275.59" height="236.22" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-25" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#333333;strokeColor=none;" vertex="1" parent="rwfblAppZz15rpqqRNAp-26">
+          <mxGeometry width="291.33799999999997" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rwfblAppZz15rpqqRNAp-30" value="USB Type C" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1102.3539999999998" y="622.0440000000001" width="70.866" height="59.055" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

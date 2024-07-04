@@ -1,0 +1,16 @@
+<mxfile host="Electron" modified="2024-07-04T14:51:41.330Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="EWfAxqA0wNEx_029B_Nn" version="24.6.4" type="device">
+  <diagram name="Page-1" id="_52FcOgEGnPiSp6zgUy1">
+    <mxGraphModel dx="1195" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZBqfu0O2WaxuwT3IXtq2-2" value="LattePanda Mu" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="640" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZBqfu0O2WaxuwT3IXtq2-3" value="1920x1080 11.6&quot; eDP &lt;br&gt;Capacitive Touchscreen&lt;br&gt;&lt;br&gt;DFRobot" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="360" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
