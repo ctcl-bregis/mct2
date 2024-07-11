@@ -415,7 +415,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -576,6 +576,10 @@
     [
       "0917e100-0497-47cd-9e32-3e43ad224d2b",
       "Root"
+    ],
+    [
+      "c9720429-3bf3-4c3a-9e7d-2ba35698ba31",
+      "mct2_io"
     ]
   ],
   "text_variables": {}
