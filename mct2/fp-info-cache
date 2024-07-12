@@ -1,4 +1,4 @@
-24238334448933799
+24240055258413029
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98951,6 +98951,13 @@ Header_Flipper_Zero
 0
 18
 18
+mediacow
+ST_UQFN-6L_1.35x1.4mm_P0.4mm
+
+
+0
+0
+0
 micromemory
 M.2-CARD-E-22
 
