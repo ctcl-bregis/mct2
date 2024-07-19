@@ -580,6 +580,10 @@
     [
       "c9720429-3bf3-4c3a-9e7d-2ba35698ba31",
       "mct2_io"
+    ],
+    [
+      "a8bf6592-f5ae-4d8b-8322-3be7272b77f0",
+      "mct2_power"
     ]
   ],
   "text_variables": {}
