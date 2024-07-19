@@ -17,8 +17,3 @@ The following sections are titled the name of each directory
 ### circuits
 "circuits" is for drawings of layouts of the device's electronics including layouts of specific subsystems.
 
-### mct2
-"mct2", having an ambiguous name, is the KiCAD EDA schematics and drawings including component symbols and footprints made for the project. This directory may soon be put under "circuits".
-
- 
-

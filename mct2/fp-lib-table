@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Module_LattePanda")(type "KiCad")(uri "/home/ctcl/Documents/mct2/kicad/Module_LattePanda.pretty")(options "")(descr ""))
-)
