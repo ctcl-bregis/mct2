@@ -1,4 +1,4 @@
-24236615121352426
+24248662831146507
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63636,6 +63636,20 @@ Yellow 5381 Series LED
 0
 2
 2
+LattePanda_Mu
+LattePanda_Module_H4.0mm_Horizontal
+LattePanda Module
+lattepanda module sodimm
+0
+262
+261
+LattePanda_Mu
+LattePanda_Module_H8.0mm_Horizontal
+LattePanda Module
+lattepanda module sodimm
+0
+262
+261
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -98937,6 +98951,41 @@ Header_Flipper_Zero
 0
 18
 18
+mediacow
+RSH56_7P15X7P15_TEX
+
+TPS65987DDHRSHR 
+0
+59
+59
+mediacow
+RSL0048B-IPC_A
+
+TPS65994ADRSLR 
+0
+49
+49
+mediacow
+RSL0048B-IPC_B
+
+TPS65994ADRSLR 
+0
+49
+49
+mediacow
+RSL0048B-IPC_C
+
+TPS65994ADRSLR 
+0
+49
+49
+mediacow
+RSL0048B-MFG
+
+TPS65994ADRSLR 
+0
+70
+70
 mediacow
 ST_UQFN-6L_1.35x1.4mm_P0.4mm
 
