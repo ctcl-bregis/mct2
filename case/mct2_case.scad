@@ -19,7 +19,8 @@ show = "allexp";
 comp = false;
 
 // Dimensions
-lcd_dims = [268, 160, 5];
+// 5mm for display, 2mm double-sided tape
+lcd_dims = [268, 160, 5 + 2];
 // Distance between connector middle and the outer right side of the display
 lcd_conn_from_right = 114;
 // Distances between the outer dimension of the lens to the LCD active area
@@ -28,7 +29,7 @@ lcd_aa_dist_left = 5;
 lcd_aa_dist_bottom = 10;
 lcd_aa_dist_top = 4;
 
-case_bottom_height = 5;
+case_bottom_height = 2;
 // Distance between the case bottom layer and the bottom of the display mount
 case_internal_height = 30;
 

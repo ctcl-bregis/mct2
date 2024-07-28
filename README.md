@@ -1,3 +1,7 @@
+<div>
+  <img src="branding/mct2_full_long_black_whitebg.svg" style="width: 100%" alt="MediaCow Touch 2"/>
+</div>
+
 # MediaCow Touch 2 Hardware Designs
 MediaCow Touch 2 "Paris" is the successor to MediaCow Touch (1) "Nashville" which is a DIY portable tablet computer.
 
