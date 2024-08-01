@@ -15109,6 +15109,44 @@
 			)
 		)
 	)
+	(sheet
+		(at 931.545 391.16)
+		(size 38.735 4.445)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f1c7c14b-ceb5-428a-9125-91c37b884576")
+		(property "Sheetname" "mct2_ec"
+			(at 931.545 390.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mct2_ec.kicad_sch"
+			(at 931.545 396.1896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mct2"
+				(path "/0917e100-0497-47cd-9e32-3e43ad224d2b"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

@@ -1,7 +1,7 @@
 // MediaCow Touch 2 - CTCL 2021-2024
 // Purpose: Case design
 // Created: July 7, 2024
-// Modified: July 18, 2024
+// Modified: July 30, 2024
 
 // Units - mm
 // X - Width
