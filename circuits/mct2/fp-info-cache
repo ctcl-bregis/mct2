@@ -1,4 +1,4 @@
-24257274268279887
+24262443097534312
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98966,6 +98966,20 @@ Infineon_PG-TSDSON-8
 0
 0
 mediacow
+QFN-16_MP8859
+
+
+0
+0
+0
+mediacow
+QFN_DKRSHR_TEX
+
+TPS65988DKRSHR 
+0
+59
+59
+mediacow
 RSH56_7P15X7P15_TEX
 
 TPS65987DDHRSHR 
@@ -99021,6 +99035,13 @@ Omron B3F-10xx
 0
 4
 2
+mediacow
+SiTime_PQFN-4L_7x5
+
+
+0
+0
+0
 mediacow
 VQFN-HR12_RJN_TEX
 
