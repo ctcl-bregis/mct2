@@ -6021,7 +6021,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 0 0)
+				(at -7.62 2.54 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -6039,7 +6039,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 2.54 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "VIN"
 					(effects
