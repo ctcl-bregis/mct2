@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
   <diagram id="sjDEf0ka3ngV4-eLp2Dp" name="Page-1">
-    <mxGraphModel dx="1434" dy="842" grid="1" gridSize="3.937" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="702" grid="1" gridSize="3.937" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
           <mxGeometry x="1594.48" y="216.52" width="19.68" height="629.93" as="geometry" />
         </mxCell>
         <mxCell id="5Y6CiFaYAmU3wzSWvNBA-32" value="USB 3.0&lt;div&gt;x2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="2673.22" y="406.49" width="66.93" height="59.06" as="geometry" />
+          <mxGeometry x="2673.22" y="401.57" width="66.93" height="59.06" as="geometry" />
         </mxCell>
         <mxCell id="5Y6CiFaYAmU3wzSWvNBA-37" value="USB &lt;br&gt;Type C" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="2696.8439999999996" y="299.2140000000002" width="43.306999999999995" height="39.37" as="geometry" />
@@ -119,13 +119,13 @@
           <mxGeometry x="2314.954999999999" y="433.0669999999999" width="27.558999999999997" height="86.61399999999999" as="geometry" />
         </mxCell>
         <mxCell id="5Y6CiFaYAmU3wzSWvNBA-76" value="USB 2.0&lt;div&gt;x2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="2673.22" y="477.36" width="66.93" height="59.05" as="geometry" />
+          <mxGeometry x="2673.22" y="468.5" width="66.93" height="59.05" as="geometry" />
         </mxCell>
         <mxCell id="pe4Gr2BjXZW_dXRISGPZ-1" value="HDMI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="2700.78" y="618.11" width="39.37" height="55.12" as="geometry" />
+          <mxGeometry x="2700.78" y="606.3000000000001" width="39.37" height="55.12" as="geometry" />
         </mxCell>
         <mxCell id="pe4Gr2BjXZW_dXRISGPZ-2" value="Ethernet" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="2673.22" y="548.21" width="66.93" height="62.02" as="geometry" />
+          <mxGeometry x="2673.22" y="535.4300000000001" width="66.93" height="62.02" as="geometry" />
         </mxCell>
         <mxCell id="pe4Gr2BjXZW_dXRISGPZ-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1636.077" y="137.477" width="39.37" height="20" as="geometry" />
@@ -343,22 +343,22 @@
         <mxCell id="6V9Kl2lkqd9KRzu4vhar-9" value="Connector side" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2106.29" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-2" value="Fan&lt;div style=&quot;font-size: 24px;&quot;&gt;Delta&amp;nbsp;BUB0712HD-SM &lt;br style=&quot;font-size: 24px;&quot;&gt;or equivalent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontColor=#FFFFFF;strokeColor=none;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-2" value="Fan&lt;div style=&quot;font-size: 24px;&quot;&gt;Delta&amp;nbsp;BUB0712HD-SM &lt;br style=&quot;font-size: 24px;&quot;&gt;or equivalent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;fontColor=#FFFFFF;strokeColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1893.7000000000003" y="551.1800000000001" width="287.401" height="295.66869999999994" as="geometry" />
         </mxCell>
-        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-3" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2200.78" y="122.05" width="539.37" height="27.87" as="geometry" />
         </mxCell>
-        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-4" value="PCB Width: 137mm (13.7cm)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-4" value="PCB Width: 137mm (13.7cm)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2385.82" y="122.05" width="169.29" height="11.81" as="geometry" />
         </mxCell>
-        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-5" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-5" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="2755.9" y="216.54" width="19.68" height="629.92" as="geometry" />
         </mxCell>
-        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-6" value="PCB Length: 160mm (16cm)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-6" value="PCB Length: 160mm (16cm)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2771.647" y="527.5569999999999" width="169.29" height="11.81" as="geometry" />
         </mxCell>
-        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-8" value="Vent" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="3nQ0-m8Kyhcy79Wheyvi-8" value="Vent" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="2740.15" y="677.16" width="7.88" height="165.36" as="geometry" />
         </mxCell>
       </root>
