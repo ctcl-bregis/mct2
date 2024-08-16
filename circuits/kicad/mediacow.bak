@@ -9100,6 +9100,177 @@
 			)
 		)
 	)
+	(symbol "SY21019"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SY21019_0_1"
+			(rectangle
+				(start -5.08 6.35)
+				(end 5.08 -11.43)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "SY21019_1_1"
+			(pin input line
+				(at 0 8.89 270)
+				(length 2.54)
+				(name "BS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 0 -13.97 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 7.62 -8.89 180)
+				(length 2.54)
+				(name "FB"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 3.81 0)
+				(length 2.54)
+				(name "IN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 7.62 3.81 180)
+				(length 2.54)
+				(name "LX"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "SiSF00DN"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11452,7 +11623,7 @@
 			)
 		)
 		(property "Value" "TPD12S016RKTR"
-			(at 13.97 16.51 0)
+			(at 3.81 19.05 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11516,7 +11687,7 @@
 		)
 		(symbol "TPD12S016RKTR_0_1"
 			(pin bidirectional line
-				(at -15.24 -10.16 0)
+				(at -15.24 -7.62 0)
 				(length 2.54)
 				(name "SCL_A"
 					(effects
@@ -11534,7 +11705,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 17.78 270)
+				(at -15.24 -15.24 0)
 				(length 2.54)
 				(name "VCC5V"
 					(effects
@@ -11570,7 +11741,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 -20.32 90)
+				(at 15.24 -15.24 180)
 				(length 2.54)
 				(name "5V_OUT"
 					(effects
@@ -11606,7 +11777,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -5.08 180)
+				(at 15.24 -2.54 180)
 				(length 2.54)
 				(name "CLK-"
 					(effects
@@ -11624,7 +11795,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -2.54 180)
+				(at 15.24 0 180)
 				(length 2.54)
 				(name "CLK+"
 					(effects
@@ -11642,7 +11813,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 0 180)
+				(at 15.24 2.54 180)
 				(length 2.54)
 				(name "D0-"
 					(effects
@@ -11660,7 +11831,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 2.54 180)
+				(at 15.24 5.08 180)
 				(length 2.54)
 				(name "D0+"
 					(effects
@@ -11696,7 +11867,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 5.08 180)
+				(at 15.24 7.62 180)
 				(length 2.54)
 				(name "D1-"
 					(effects
@@ -11714,7 +11885,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -15.24 -12.7 0)
+				(at -15.24 -10.16 0)
 				(length 2.54)
 				(name "SDA_A"
 					(effects
@@ -11732,7 +11903,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 7.62 180)
+				(at 15.24 10.16 180)
 				(length 2.54)
 				(name "D1+"
 					(effects
@@ -11750,7 +11921,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 10.16 180)
+				(at 15.24 12.7 180)
 				(length 2.54)
 				(name "D2-"
 					(effects
@@ -11768,7 +11939,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 12.7 180)
+				(at 15.24 15.24 180)
 				(length 2.54)
 				(name "D2+"
 					(effects
@@ -11786,7 +11957,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 17.78 270)
+				(at -15.24 15.24 0)
 				(length 2.54)
 				(name "VCCA"
 					(effects
@@ -11804,7 +11975,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -15.24 -7.62 0)
+				(at -15.24 -5.08 0)
 				(length 2.54)
 				(name "CEC_A"
 					(effects
@@ -11822,7 +11993,7 @@
 				)
 			)
 			(pin output line
-				(at -15.24 -15.24 0)
+				(at -15.24 -12.7 0)
 				(length 2.54)
 				(name "HPD_A"
 					(effects
@@ -11876,7 +12047,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 15.24 -7.62 180)
+				(at 15.24 -5.08 180)
 				(length 2.54)
 				(name "CEC_B"
 					(effects
@@ -11894,7 +12065,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 15.24 -10.16 180)
+				(at 15.24 -7.62 180)
 				(length 2.54)
 				(name "SCL_B"
 					(effects
@@ -11912,7 +12083,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 15.24 -12.7 180)
+				(at 15.24 -10.16 180)
 				(length 2.54)
 				(name "SDA_B"
 					(effects
@@ -11930,7 +12101,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -15.24 180)
+				(at 15.24 -12.7 180)
 				(length 2.54)
 				(name "HPD_B"
 					(effects
@@ -11950,7 +12121,7 @@
 		)
 		(symbol "TPD12S016RKTR_1_1"
 			(rectangle
-				(start -12.7 15.24)
+				(start -12.7 17.78)
 				(end 12.7 -17.78)
 				(stroke
 					(width 0)
