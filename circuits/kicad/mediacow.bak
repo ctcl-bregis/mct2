@@ -785,6 +785,177 @@
 			)
 		)
 	)
+	(symbol "AP3401DN"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "AP3401DN_0_1"
+			(rectangle
+				(start -3.81 7.62)
+				(end 3.81 -7.62)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "AP3401DN_1_1"
+			(pin input line
+				(at -6.35 -5.08 0)
+				(length 2.54)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 0 0)
+				(length 2.54)
+				(name "PG"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -6.35 5.08 0)
+				(length 2.54)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 6.35 5.08 180)
+				(length 2.54)
+				(name "LX"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 0 -10.16 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 6.35 -5.08 180)
+				(length 2.54)
+				(name "FB"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 	(symbol "BQ25700A"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9105,7 +9276,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 0 0)
+			(at 0 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9113,7 +9284,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 -2.54 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9121,7 +9292,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 -2.54 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9130,7 +9301,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 -2.54 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9139,7 +9310,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 -2.54 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9149,8 +9320,8 @@
 		)
 		(symbol "SY21019_0_1"
 			(rectangle
-				(start -5.08 6.35)
-				(end 5.08 -11.43)
+				(start -5.08 8.89)
+				(end 5.08 -8.89)
 				(stroke
 					(width 0)
 					(type default)
@@ -9162,7 +9333,7 @@
 		)
 		(symbol "SY21019_1_1"
 			(pin input line
-				(at 0 8.89 270)
+				(at 0 11.43 270)
 				(length 2.54)
 				(name "BS"
 					(effects
@@ -9180,7 +9351,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -13.97 90)
+				(at 0 -11.43 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -9198,7 +9369,7 @@
 				)
 			)
 			(pin input line
-				(at 7.62 -8.89 180)
+				(at 7.62 -6.35 180)
 				(length 2.54)
 				(name "FB"
 					(effects
@@ -9216,7 +9387,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -2.54 0)
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -9234,7 +9405,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 3.81 0)
+				(at -7.62 6.35 0)
 				(length 2.54)
 				(name "IN"
 					(effects
@@ -9252,7 +9423,7 @@
 				)
 			)
 			(pin input line
-				(at 7.62 3.81 180)
+				(at 7.62 6.35 180)
 				(length 2.54)
 				(name "LX"
 					(effects

@@ -451,153 +451,6 @@
 				)
 			)
 		)
-		(symbol "Device:D_Schottky_Small_Filled"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at -1.27 2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "D_Schottky_Small_Filled"
-				(at -7.112 -2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Schottky diode, small symbol, filled shape"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Schottky_Small_Filled_0_1"
-				(polyline
-					(pts
-						(xy -0.762 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.016) (xy -0.762 0) (xy 0.762 1.016) (xy 0.762 -1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0.762) (xy -1.27 1.016) (xy -0.762 1.016) (xy -0.762 -1.016) (xy -0.254 -1.016) (xy -0.254 -0.762)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Schottky_Small_Filled_1_1"
-				(pin passive line
-					(at -2.54 0 0)
-					(length 1.778)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 1.778)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:R_Small"
 			(pin_numbers hide)
 			(pin_names
@@ -6345,12 +6198,6 @@
 		)
 	)
 	(junction
-		(at 717.55 532.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46e08165-d346-45f2-8344-352c61e976c2")
-	)
-	(junction
 		(at 711.2 532.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6363,6 +6210,12 @@
 		(uuid "528eac76-bbfa-46c3-b9d2-785b1f1351b5")
 	)
 	(junction
+		(at 717.55 532.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8decd9ae-ef4a-417f-821d-1d5c2669e6d6")
+	)
+	(junction
 		(at 693.42 532.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6373,6 +6226,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e70b59e0-fde3-4a0a-9998-87ff7737e220")
+	)
+	(no_connect
+		(at 582.93 377.19)
+		(uuid "292a97ec-3cba-44d7-be2f-7066ca31d4df")
 	)
 	(no_connect
 		(at 501.65 452.12)
@@ -6391,6 +6248,10 @@
 		(uuid "60ea9d53-511b-4d9e-9755-9c0a3e51cda6")
 	)
 	(no_connect
+		(at 582.93 369.57)
+		(uuid "8c5f1eda-6276-47c8-9ee9-d4c7a06b3569")
+	)
+	(no_connect
 		(at 501.65 575.31)
 		(uuid "bb9b14c8-e81a-4a43-b15a-333a9e432189")
 	)
@@ -6401,6 +6262,14 @@
 	(no_connect
 		(at 501.65 459.74)
 		(uuid "e83dc069-dd18-4067-a75b-131085bacd57")
+	)
+	(no_connect
+		(at 582.93 372.11)
+		(uuid "f9dddc44-e77d-4328-8010-981598db58e4")
+	)
+	(no_connect
+		(at 582.93 374.65)
+		(uuid "fc88d94d-0613-42ac-9046-c38880d0749e")
 	)
 	(no_connect
 		(at 501.65 537.21)
@@ -6445,16 +6314,6 @@
 			(type default)
 		)
 		(uuid "0d2e2c48-ec49-402e-af53-07bf7df68fca")
-	)
-	(wire
-		(pts
-			(xy 499.11 474.98) (xy 501.65 474.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e94e0b1-a0bd-4a49-a0f5-b09ea3e9e7af")
 	)
 	(wire
 		(pts
@@ -6758,16 +6617,6 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 480.06) (xy 501.65 480.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5291a7b2-e6b9-4db0-b861-337bc93677ec")
-	)
-	(wire
-		(pts
 			(xy 499.11 518.16) (xy 501.65 518.16)
 		)
 		(stroke
@@ -6815,16 +6664,6 @@
 			(type default)
 		)
 		(uuid "635d3004-746c-43f4-9a03-984c9f08becd")
-	)
-	(wire
-		(pts
-			(xy 717.55 532.13) (xy 721.36 532.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65418fab-9560-4cce-85f0-5e743b054825")
 	)
 	(wire
 		(pts
@@ -7178,6 +7017,16 @@
 	)
 	(wire
 		(pts
+			(xy 723.9 532.13) (xy 717.55 532.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a35d9ec4-b86c-4d29-836d-dec7b3d546a9")
+	)
+	(wire
+		(pts
 			(xy 711.2 532.13) (xy 717.55 532.13)
 		)
 		(stroke
@@ -7518,26 +7367,6 @@
 	)
 	(wire
 		(pts
-			(xy 726.44 532.13) (xy 730.25 532.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3ad3d0e-b773-45da-bc0a-62b23bfa1e49")
-	)
-	(wire
-		(pts
-			(xy 499.11 477.52) (xy 501.65 477.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4b73789-3227-4653-aecf-2f65244a80f1")
-	)
-	(wire
-		(pts
 			(xy 499.11 373.38) (xy 501.65 373.38)
 		)
 		(stroke
@@ -7605,16 +7434,6 @@
 			(type default)
 		)
 		(uuid "db2bf703-fe9a-4b07-bdd6-fd638472c8a1")
-	)
-	(wire
-		(pts
-			(xy 499.11 472.44) (xy 501.65 472.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db719fdc-eb5d-43e7-82df-b248689ba520")
 	)
 	(wire
 		(pts
@@ -7831,7 +7650,7 @@
 	)
 	(global_label "SOM_IO_3V3"
 		(shape input)
-		(at 730.25 532.13 0)
+		(at 723.9 532.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7841,7 +7660,7 @@
 		)
 		(uuid "0b362354-5392-4f40-b637-60accfce7850")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 744.6047 532.13 0)
+			(at 738.2547 532.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7851,7 +7670,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX0_P"
+	(global_label "PCIE_M2M_TX0_P"
 		(shape input)
 		(at 499.11 408.94 180)
 		(fields_autoplaced yes)
@@ -7983,7 +7802,7 @@
 			)
 		)
 	)
-	(global_label "SMB3_SCL"
+	(global_label "SML_SCL"
 		(shape input)
 		(at 585.47 495.3 0)
 		(fields_autoplaced yes)
@@ -7995,7 +7814,7 @@
 		)
 		(uuid "1907f73d-2ad8-4649-a4e4-26615356fe9b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 598.0708 495.3 0)
+			(at 596.6194 495.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8071,28 +7890,6 @@
 			)
 		)
 	)
-	(global_label "USB_EXT3_P"
-		(shape input)
-		(at 499.11 472.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1e877fa3-6c1f-4396-8ffe-329937a04bd1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.574 472.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "TCP0_HPD"
 		(shape input)
 		(at 499.11 533.4 180)
@@ -8137,7 +7934,7 @@
 			)
 		)
 	)
-	(global_label "SMB3_ALT"
+	(global_label "SML_ALT"
 		(shape input)
 		(at 585.47 497.84 0)
 		(fields_autoplaced yes)
@@ -8149,7 +7946,7 @@
 		)
 		(uuid "2f8bd713-eab6-4ddf-90de-dd4bc7ecc5be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 597.6475 497.84 0)
+			(at 596.1961 497.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8423,28 +8220,6 @@
 			)
 		)
 	)
-	(global_label "USB_EXT3_N"
-		(shape input)
-		(at 499.11 474.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5b403b3d-4304-4299-a986-9687c93f0c4b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.5135 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDA_SDOUT"
 		(shape input)
 		(at 585.47 570.23 0)
@@ -8467,7 +8242,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX1_N"
+	(global_label "PCIE_M2M_RX1_N"
 		(shape input)
 		(at 499.11 426.72 180)
 		(fields_autoplaced yes)
@@ -8841,7 +8616,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX0_N"
+	(global_label "PCIE_M2M_TX0_N"
 		(shape input)
 		(at 499.11 411.48 180)
 		(fields_autoplaced yes)
@@ -8907,7 +8682,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX3_N"
+	(global_label "PCIE_M2M_RX3_N"
 		(shape input)
 		(at 499.11 447.04 180)
 		(fields_autoplaced yes)
@@ -8929,7 +8704,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX2_N"
+	(global_label "PCIE_M2M_RX2_N"
 		(shape input)
 		(at 499.11 436.88 180)
 		(fields_autoplaced yes)
@@ -9083,7 +8858,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX3_N"
+	(global_label "PCIE_M2M_TX3_N"
 		(shape input)
 		(at 499.11 441.96 180)
 		(fields_autoplaced yes)
@@ -9149,7 +8924,7 @@
 			)
 		)
 	)
-	(global_label "SMB3_SDA"
+	(global_label "SML_SDA"
 		(shape input)
 		(at 585.47 492.76 0)
 		(fields_autoplaced yes)
@@ -9161,7 +8936,7 @@
 		)
 		(uuid "9f2f2014-7764-4082-9fa9-1c867a775b92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 598.1313 492.76 0)
+			(at 596.6799 492.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9193,7 +8968,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX1_N"
+	(global_label "PCIE_M2M_TX1_N"
 		(shape input)
 		(at 499.11 421.64 180)
 		(fields_autoplaced yes)
@@ -9259,7 +9034,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX2_N"
+	(global_label "PCIE_M2M_TX2_N"
 		(shape input)
 		(at 499.11 431.8 180)
 		(fields_autoplaced yes)
@@ -9479,7 +9254,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX0_P"
+	(global_label "PCIE_M2M_RX0_P"
 		(shape input)
 		(at 499.11 414.02 180)
 		(fields_autoplaced yes)
@@ -9545,7 +9320,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX2_P"
+	(global_label "PCIE_M2M_RX2_P"
 		(shape input)
 		(at 499.11 434.34 180)
 		(fields_autoplaced yes)
@@ -9721,7 +9496,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX3_P"
+	(global_label "PCIE_M2M_RX3_P"
 		(shape input)
 		(at 499.11 444.5 180)
 		(fields_autoplaced yes)
@@ -9765,7 +9540,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_REF_N"
+	(global_label "PCIE_M2M_REF_N"
 		(shape input)
 		(at 585.47 392.43 0)
 		(fields_autoplaced yes)
@@ -9853,28 +9628,6 @@
 			)
 		)
 	)
-	(global_label "USB_EXT4_P"
-		(shape input)
-		(at 499.11 477.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d89901b4-e224-4b31-9f4e-87980cbbaae5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.574 477.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "HDA_SDIN"
 		(shape input)
 		(at 585.47 572.77 0)
@@ -9897,7 +9650,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX3_P"
+	(global_label "PCIE_M2M_TX3_P"
 		(shape input)
 		(at 499.11 439.42 180)
 		(fields_autoplaced yes)
@@ -9919,7 +9672,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_REF_P"
+	(global_label "PCIE_M2M_REF_P"
 		(shape input)
 		(at 585.47 389.89 0)
 		(fields_autoplaced yes)
@@ -10095,7 +9848,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX0_N"
+	(global_label "PCIE_M2M_RX0_N"
 		(shape input)
 		(at 499.11 416.56 180)
 		(fields_autoplaced yes)
@@ -10117,7 +9870,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX2_P"
+	(global_label "PCIE_M2M_TX2_P"
 		(shape input)
 		(at 499.11 429.26 180)
 		(fields_autoplaced yes)
@@ -10139,7 +9892,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_RX1_P"
+	(global_label "PCIE_M2M_RX1_P"
 		(shape input)
 		(at 499.11 424.18 180)
 		(fields_autoplaced yes)
@@ -10205,28 +9958,6 @@
 			)
 		)
 	)
-	(global_label "USB_EXT4_N"
-		(shape input)
-		(at 499.11 480.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f158babc-ad65-4eaa-8731-869acbe5eead")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.5135 480.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "DDIB_TX3_P"
 		(shape input)
 		(at 499.11 510.54 180)
@@ -10271,7 +10002,7 @@
 			)
 		)
 	)
-	(global_label "PCIE_NVME_TX1_P"
+	(global_label "PCIE_M2M_TX1_P"
 		(shape input)
 		(at 499.11 419.1 180)
 		(fields_autoplaced yes)
@@ -11044,74 +10775,6 @@
 			(project "mct2"
 				(path "/0917e100-0497-47cd-9e32-3e43ad224d2b"
 					(reference "R?")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky_Small_Filled")
-		(at 723.9 532.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8fce24b5-5ebf-4957-a4ad-0d32d6c588f0")
-		(property "Reference" "D?"
-			(at 723.646 525.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "D_Schottky_Small_Filled"
-			(at 723.646 528.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 723.9 532.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 723.9 532.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode, small symbol, filled shape"
-			(at 723.9 532.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bda78278-d0a5-4f2d-a197-da3cd06af230")
-		)
-		(pin "1"
-			(uuid "3d279b0b-f669-4907-9c23-c748e220a0cd")
-		)
-		(instances
-			(project "mct2"
-				(path "/0917e100-0497-47cd-9e32-3e43ad224d2b"
-					(reference "D?")
 					(unit 1)
 				)
 			)
