@@ -6275,6 +6275,15 @@
 		(at 501.65 537.21)
 		(uuid "ffb9ec4b-6ffa-46bd-b7c0-97888e934c2a")
 	)
+	(bus_entry
+		(at 659.13 516.89)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac46b5e6-06c6-41d3-a9f4-0fffd0fe6516")
+	)
 	(wire
 		(pts
 			(xy 499.11 566.42) (xy 501.65 566.42)
@@ -6327,7 +6336,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 381) (xy 501.65 381)
+			(xy 477.52 381) (xy 501.65 381)
 		)
 		(stroke
 			(width 0)
@@ -6397,7 +6406,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 388.62) (xy 501.65 388.62)
+			(xy 477.52 388.62) (xy 501.65 388.62)
 		)
 		(stroke
 			(width 0)
@@ -6457,7 +6466,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 393.7) (xy 501.65 393.7)
+			(xy 477.52 393.7) (xy 501.65 393.7)
 		)
 		(stroke
 			(width 0)
@@ -6567,7 +6576,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 403.86) (xy 501.65 403.86)
+			(xy 477.52 403.86) (xy 501.65 403.86)
 		)
 		(stroke
 			(width 0)
@@ -6857,7 +6866,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 365.76) (xy 501.65 365.76)
+			(xy 477.52 365.76) (xy 501.65 365.76)
 		)
 		(stroke
 			(width 0)
@@ -7047,7 +7056,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 398.78) (xy 501.65 398.78)
+			(xy 477.52 398.78) (xy 501.65 398.78)
 		)
 		(stroke
 			(width 0)
@@ -7057,7 +7066,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 401.32) (xy 501.65 401.32)
+			(xy 477.52 401.32) (xy 501.65 401.32)
 		)
 		(stroke
 			(width 0)
@@ -7137,7 +7146,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 368.3) (xy 501.65 368.3)
+			(xy 477.52 368.3) (xy 501.65 368.3)
 		)
 		(stroke
 			(width 0)
@@ -7157,7 +7166,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 375.92) (xy 501.65 375.92)
+			(xy 477.52 375.92) (xy 501.65 375.92)
 		)
 		(stroke
 			(width 0)
@@ -7177,7 +7186,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 370.84) (xy 501.65 370.84)
+			(xy 477.52 370.84) (xy 501.65 370.84)
 		)
 		(stroke
 			(width 0)
@@ -7257,7 +7266,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 386.08) (xy 501.65 386.08)
+			(xy 477.52 386.08) (xy 501.65 386.08)
 		)
 		(stroke
 			(width 0)
@@ -7327,7 +7336,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 391.16) (xy 501.65 391.16)
+			(xy 477.52 391.16) (xy 501.65 391.16)
 		)
 		(stroke
 			(width 0)
@@ -7367,7 +7376,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 373.38) (xy 501.65 373.38)
+			(xy 477.52 373.38) (xy 501.65 373.38)
 		)
 		(stroke
 			(width 0)
@@ -7427,7 +7436,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 378.46) (xy 501.65 378.46)
+			(xy 477.52 378.46) (xy 501.65 378.46)
 		)
 		(stroke
 			(width 0)
@@ -7447,7 +7456,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 383.54) (xy 501.65 383.54)
+			(xy 477.52 383.54) (xy 501.65 383.54)
 		)
 		(stroke
 			(width 0)
@@ -7507,7 +7516,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 396.24) (xy 501.65 396.24)
+			(xy 477.52 396.24) (xy 501.65 396.24)
 		)
 		(stroke
 			(width 0)
@@ -7760,7 +7769,7 @@
 	)
 	(global_label "SSUSB1_RXN"
 		(shape input)
-		(at 499.11 383.54 180)
+		(at 477.52 383.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7770,7 +7779,7 @@
 		)
 		(uuid "13fd8fef-e717-481e-9ccf-64e518c74ac5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 483.9087 383.54 0)
+			(at 462.3187 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7782,7 +7791,7 @@
 	)
 	(global_label "PCIE_M2E_TX0_P"
 		(shape input)
-		(at 499.11 386.08 180)
+		(at 477.52 386.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7792,7 +7801,7 @@
 		)
 		(uuid "16100ec2-ed86-43aa-b7eb-b0afebfa6831")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 483.1226 386.08 0)
+			(at 461.5326 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8046,7 +8055,7 @@
 	)
 	(global_label "PCIE_M2E_RX0_P"
 		(shape input)
-		(at 499.11 391.16 180)
+		(at 477.52 391.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8056,7 +8065,7 @@
 		)
 		(uuid "3da82721-2cb4-4981-bf09-57c6f641e929")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 482.8202 391.16 0)
+			(at 461.2302 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8068,7 +8077,7 @@
 	)
 	(global_label "PCIE_M2E_TX0_N"
 		(shape input)
-		(at 499.11 388.62 180)
+		(at 477.52 388.62 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8078,7 +8087,7 @@
 		)
 		(uuid "3e0ddd77-7d8e-4b88-863c-dd2cea39bfda")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 483.0621 388.62 0)
+			(at 461.4721 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8376,7 +8385,7 @@
 	)
 	(global_label "SSUSB1_TXP"
 		(shape input)
-		(at 499.11 375.92 180)
+		(at 477.52 375.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8386,7 +8395,7 @@
 		)
 		(uuid "6e2afbb8-abb8-4313-8f24-73de001e7da5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.2716 375.92 0)
+			(at 462.6816 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8398,7 +8407,7 @@
 	)
 	(global_label "SSUSB1_RXP"
 		(shape input)
-		(at 499.11 381 180)
+		(at 477.52 381 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8408,7 +8417,7 @@
 		)
 		(uuid "70233fd2-a836-4202-b929-89c9c6a379e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.2716 381 0)
+			(at 462.6816 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8596,7 +8605,7 @@
 	)
 	(global_label "PCIE_LAN_RX0_P"
 		(shape input)
-		(at 499.11 401.32 180)
+		(at 477.52 401.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8606,7 +8615,7 @@
 		)
 		(uuid "7e85f8d6-ac0e-495d-8261-e9b7a1c8c064")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 482.8202 401.32 0)
+			(at 461.2302 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8794,7 +8803,7 @@
 	)
 	(global_label "SSUSB0_TXP"
 		(shape input)
-		(at 499.11 368.3 180)
+		(at 477.52 368.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8804,7 +8813,7 @@
 		)
 		(uuid "91faaa67-b322-498d-b653-6e1f11ea5966")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.2716 368.3 0)
+			(at 462.6816 368.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8816,7 +8825,7 @@
 	)
 	(global_label "SSUSB0_RXN"
 		(shape input)
-		(at 499.11 373.38 180)
+		(at 477.52 373.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8826,7 +8835,7 @@
 		)
 		(uuid "92aabbb7-b80d-46d0-921e-a77b57b94ee4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 483.9087 373.38 0)
+			(at 462.3187 373.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8838,7 +8847,7 @@
 	)
 	(global_label "PCIE_LAN_TX0_P"
 		(shape input)
-		(at 499.11 396.24 180)
+		(at 477.52 396.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8848,7 +8857,7 @@
 		)
 		(uuid "944ad8b4-f70a-4fa0-9f1c-7fbaf116c664")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 483.1226 396.24 0)
+			(at 461.5326 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9124,7 +9133,7 @@
 	)
 	(global_label "SSUSB0_TXP"
 		(shape input)
-		(at 499.11 365.76 180)
+		(at 477.52 365.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9134,7 +9143,7 @@
 		)
 		(uuid "b0d536b2-37ac-4dd5-bc49-f992a65bd8ba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.2716 365.76 0)
+			(at 462.6816 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9168,7 +9177,7 @@
 	)
 	(global_label "PCIE_M2E_RX0_N"
 		(shape input)
-		(at 499.11 393.7 180)
+		(at 477.52 393.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9178,7 +9187,7 @@
 		)
 		(uuid "b3b8f68b-1bce-4b11-a301-eb7d8da1171d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 482.7597 393.7 0)
+			(at 461.1697 393.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9344,7 +9353,7 @@
 	)
 	(global_label "PCIE_LAN_RX0_N"
 		(shape input)
-		(at 499.11 403.86 180)
+		(at 477.52 403.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9354,7 +9363,7 @@
 		)
 		(uuid "be8c2bb1-9944-4893-8b52-f2fa0bd74919")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 482.7597 403.86 0)
+			(at 461.1697 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9388,7 +9397,7 @@
 	)
 	(global_label "SSUSB0_RXP"
 		(shape input)
-		(at 499.11 370.84 180)
+		(at 477.52 370.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9398,7 +9407,7 @@
 		)
 		(uuid "c4e6a0a9-6e0e-422f-85be-b56d3d732d5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.2716 370.84 0)
+			(at 462.6816 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9718,7 +9727,7 @@
 	)
 	(global_label "SSUSB1_TXN"
 		(shape input)
-		(at 499.11 378.46 180)
+		(at 477.52 378.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9728,7 +9737,7 @@
 		)
 		(uuid "ddb72597-c85b-4101-bbef-56240db9c38c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 484.2111 378.46 0)
+			(at 462.6211 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9938,7 +9947,7 @@
 	)
 	(global_label "PCIE_LAN_TX0_N"
 		(shape input)
-		(at 499.11 398.78 180)
+		(at 477.52 398.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9948,7 +9957,7 @@
 		)
 		(uuid "eec63045-8b92-42c9-9f04-f9e6b54731f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 483.0621 398.78 0)
+			(at 461.4721 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
