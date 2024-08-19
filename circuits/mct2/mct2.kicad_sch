@@ -6275,15 +6275,6 @@
 		(at 501.65 537.21)
 		(uuid "ffb9ec4b-6ffa-46bd-b7c0-97888e934c2a")
 	)
-	(bus_entry
-		(at 659.13 516.89)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac46b5e6-06c6-41d3-a9f4-0fffd0fe6516")
-	)
 	(wire
 		(pts
 			(xy 499.11 566.42) (xy 501.65 566.42)
@@ -6486,7 +6477,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 414.02) (xy 501.65 414.02)
+			(xy 477.52 414.02) (xy 501.65 414.02)
 		)
 		(stroke
 			(width 0)
@@ -6536,7 +6527,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 411.48) (xy 501.65 411.48)
+			(xy 477.52 411.48) (xy 501.65 411.48)
 		)
 		(stroke
 			(width 0)
@@ -6586,7 +6577,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 408.94) (xy 501.65 408.94)
+			(xy 477.52 408.94) (xy 501.65 408.94)
 		)
 		(stroke
 			(width 0)
@@ -6606,7 +6597,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 419.1) (xy 501.65 419.1)
+			(xy 477.52 419.1) (xy 501.65 419.1)
 		)
 		(stroke
 			(width 0)
@@ -6726,7 +6717,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 431.8) (xy 501.65 431.8)
+			(xy 477.52 431.8) (xy 501.65 431.8)
 		)
 		(stroke
 			(width 0)
@@ -6776,7 +6767,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 416.56) (xy 501.65 416.56)
+			(xy 477.52 416.56) (xy 501.65 416.56)
 		)
 		(stroke
 			(width 0)
@@ -6916,7 +6907,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 424.18) (xy 501.65 424.18)
+			(xy 477.52 424.18) (xy 501.65 424.18)
 		)
 		(stroke
 			(width 0)
@@ -6976,7 +6967,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 439.42) (xy 501.65 439.42)
+			(xy 477.52 439.42) (xy 501.65 439.42)
 		)
 		(stroke
 			(width 0)
@@ -6986,7 +6977,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 444.5) (xy 501.65 444.5)
+			(xy 477.52 444.5) (xy 501.65 444.5)
 		)
 		(stroke
 			(width 0)
@@ -6996,7 +6987,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 421.64) (xy 501.65 421.64)
+			(xy 477.52 421.64) (xy 501.65 421.64)
 		)
 		(stroke
 			(width 0)
@@ -7076,7 +7067,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 447.04) (xy 501.65 447.04)
+			(xy 477.52 447.04) (xy 501.65 447.04)
 		)
 		(stroke
 			(width 0)
@@ -7196,7 +7187,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 426.72) (xy 501.65 426.72)
+			(xy 477.52 426.72) (xy 501.65 426.72)
 		)
 		(stroke
 			(width 0)
@@ -7366,7 +7357,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 441.96) (xy 501.65 441.96)
+			(xy 477.52 441.96) (xy 501.65 441.96)
 		)
 		(stroke
 			(width 0)
@@ -7446,7 +7437,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 434.34) (xy 501.65 434.34)
+			(xy 477.52 434.34) (xy 501.65 434.34)
 		)
 		(stroke
 			(width 0)
@@ -7546,7 +7537,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 429.26) (xy 501.65 429.26)
+			(xy 477.52 429.26) (xy 501.65 429.26)
 		)
 		(stroke
 			(width 0)
@@ -7576,7 +7567,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 436.88) (xy 501.65 436.88)
+			(xy 477.52 436.88) (xy 501.65 436.88)
 		)
 		(stroke
 			(width 0)
@@ -7681,7 +7672,7 @@
 	)
 	(global_label "PCIE_M2M_TX0_P"
 		(shape input)
-		(at 499.11 408.94 180)
+		(at 477.52 408.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7691,7 +7682,7 @@
 		)
 		(uuid "0db57cc7-8c7f-47e5-832c-fd6e8db3e9e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.2521 408.94 0)
+			(at 457.6621 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8253,7 +8244,7 @@
 	)
 	(global_label "PCIE_M2M_RX1_N"
 		(shape input)
-		(at 499.11 426.72 180)
+		(at 477.52 426.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8263,7 +8254,7 @@
 		)
 		(uuid "5e6bda98-a0fa-4663-92f6-bd9afc533879")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.8892 426.72 0)
+			(at 457.2992 426.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8627,7 +8618,7 @@
 	)
 	(global_label "PCIE_M2M_TX0_N"
 		(shape input)
-		(at 499.11 411.48 180)
+		(at 477.52 411.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8637,7 +8628,7 @@
 		)
 		(uuid "80d54ceb-af23-46ff-9b41-16c131080443")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.1916 411.48 0)
+			(at 457.6016 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8693,7 +8684,7 @@
 	)
 	(global_label "PCIE_M2M_RX3_N"
 		(shape input)
-		(at 499.11 447.04 180)
+		(at 477.52 447.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8703,7 +8694,7 @@
 		)
 		(uuid "8a758c7b-344c-40b2-81a6-4122d3bc3e90")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.8892 447.04 0)
+			(at 457.2992 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8715,7 +8706,7 @@
 	)
 	(global_label "PCIE_M2M_RX2_N"
 		(shape input)
-		(at 499.11 436.88 180)
+		(at 477.52 436.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8725,7 +8716,7 @@
 		)
 		(uuid "8bab67a7-87ea-4ded-85dc-9c512b57ad92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.8892 436.88 0)
+			(at 457.2992 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8869,7 +8860,7 @@
 	)
 	(global_label "PCIE_M2M_TX3_N"
 		(shape input)
-		(at 499.11 441.96 180)
+		(at 477.52 441.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8879,7 +8870,7 @@
 		)
 		(uuid "9883a441-8860-42ac-86b2-6134d13e9c6d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.1916 441.96 0)
+			(at 457.6016 441.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8979,7 +8970,7 @@
 	)
 	(global_label "PCIE_M2M_TX1_N"
 		(shape input)
-		(at 499.11 421.64 180)
+		(at 477.52 421.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8989,7 +8980,7 @@
 		)
 		(uuid "a64facad-a481-464b-9a63-fe7e53e0e12a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.1916 421.64 0)
+			(at 457.6016 421.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9045,7 +9036,7 @@
 	)
 	(global_label "PCIE_M2M_TX2_N"
 		(shape input)
-		(at 499.11 431.8 180)
+		(at 477.52 431.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9055,7 +9046,7 @@
 		)
 		(uuid "ab34bd11-e450-4ac7-a66b-21dad35168d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.1916 431.8 0)
+			(at 457.6016 431.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9265,7 +9256,7 @@
 	)
 	(global_label "PCIE_M2M_RX0_P"
 		(shape input)
-		(at 499.11 414.02 180)
+		(at 477.52 414.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9275,7 +9266,7 @@
 		)
 		(uuid "b687d3fd-760b-4d40-9895-3c476882b964")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.9497 414.02 0)
+			(at 457.3597 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9331,7 +9322,7 @@
 	)
 	(global_label "PCIE_M2M_RX2_P"
 		(shape input)
-		(at 499.11 434.34 180)
+		(at 477.52 434.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9341,7 +9332,7 @@
 		)
 		(uuid "ba79bf31-1701-4d85-8a2e-8e688df4761f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.9497 434.34 0)
+			(at 457.3597 434.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9507,7 +9498,7 @@
 	)
 	(global_label "PCIE_M2M_RX3_P"
 		(shape input)
-		(at 499.11 444.5 180)
+		(at 477.52 444.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9517,7 +9508,7 @@
 		)
 		(uuid "d14a0dea-1260-41b3-bfe2-dd5f35c75adc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.9497 444.5 0)
+			(at 457.3597 444.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9661,7 +9652,7 @@
 	)
 	(global_label "PCIE_M2M_TX3_P"
 		(shape input)
-		(at 499.11 439.42 180)
+		(at 477.52 439.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9671,7 +9662,7 @@
 		)
 		(uuid "d9dc967c-6513-44e8-a5c9-c28c54099cf4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.2521 439.42 0)
+			(at 457.6621 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9859,7 +9850,7 @@
 	)
 	(global_label "PCIE_M2M_RX0_N"
 		(shape input)
-		(at 499.11 416.56 180)
+		(at 477.52 416.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9869,7 +9860,7 @@
 		)
 		(uuid "e72fe7b2-bed2-43b6-95b2-ee64a0c4779b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.8892 416.56 0)
+			(at 457.2992 416.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9881,7 +9872,7 @@
 	)
 	(global_label "PCIE_M2M_TX2_P"
 		(shape input)
-		(at 499.11 429.26 180)
+		(at 477.52 429.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9891,7 +9882,7 @@
 		)
 		(uuid "e809e264-7ecb-4f93-9891-7a2957a1f401")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.2521 429.26 0)
+			(at 457.6621 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9903,7 +9894,7 @@
 	)
 	(global_label "PCIE_M2M_RX1_P"
 		(shape input)
-		(at 499.11 424.18 180)
+		(at 477.52 424.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9913,7 +9904,7 @@
 		)
 		(uuid "e95c7286-ab83-4401-8eae-499d4d72cc48")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 478.9497 424.18 0)
+			(at 457.3597 424.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10013,7 +10004,7 @@
 	)
 	(global_label "PCIE_M2M_TX1_P"
 		(shape input)
-		(at 499.11 419.1 180)
+		(at 477.52 419.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10023,7 +10014,7 @@
 		)
 		(uuid "f5add771-c103-41f7-9890-6bf71feb2075")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.2521 419.1 0)
+			(at 457.6621 419.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)

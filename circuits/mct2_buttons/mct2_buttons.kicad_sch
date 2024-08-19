@@ -2843,7 +2843,7 @@
 		)
 		(uuid e69929f1-c384-4589-a034-4975be0e8fea)
 	)
-	(text "July 31, 2024 - August 1, 2024"
+	(text "July 31, 2024 - August 19, 2024"
 		(exclude_from_sim no)
 		(at 222.504 193.548 0)
 		(effects
@@ -2862,16 +2862,6 @@
 			)
 		)
 		(uuid "756b406b-755a-45f3-9a29-6783efb10401")
-	)
-	(text "To STM32U5A5ZJ"
-		(exclude_from_sim no)
-		(at 273.558 61.468 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "868de689-8f84-4def-9932-6fc62ca9335d")
 	)
 	(text "MediaCow Touch 2 - Button Board"
 		(exclude_from_sim no)
@@ -3241,7 +3231,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "035b7086-d739-46c1-9e70-5825df27360f")
 		(property "Reference" "R1"
 			(at 239.776 38.354 0)
@@ -3511,7 +3501,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3320a77b-5f14-4bd3-a331-a0f2e7ba0b6a")
 		(property "Reference" "R2"
 			(at 246.126 38.354 0)
@@ -5110,7 +5100,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 254.762 58.42 0)
+			(at 252.984 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
