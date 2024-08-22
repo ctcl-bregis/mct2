@@ -22297,7 +22297,7 @@
 			)
 		)
 	)
-	(global_label "SMB1_SCL"
+	(global_label "SYS_SMB_SCL"
 		(shape input)
 		(at 1131.57 321.31 180)
 		(fields_autoplaced yes)
@@ -23089,7 +23089,7 @@
 			)
 		)
 	)
-	(global_label "SMB1_SCL"
+	(global_label "SYS_SMB_SCL"
 		(shape input)
 		(at 981.71 453.39 0)
 		(fields_autoplaced yes)
@@ -23859,7 +23859,7 @@
 			)
 		)
 	)
-	(global_label "SMB1_ALT"
+	(global_label "SYS_SMB_ALT"
 		(shape input)
 		(at 981.71 455.93 0)
 		(fields_autoplaced yes)
@@ -24827,7 +24827,7 @@
 			)
 		)
 	)
-	(global_label "SMB1_SDA"
+	(global_label "SYS_SMB_SDA"
 		(shape input)
 		(at 981.71 450.85 0)
 		(fields_autoplaced yes)
@@ -25025,7 +25025,7 @@
 			)
 		)
 	)
-	(global_label "SMB1_ALT"
+	(global_label "SYS_SMB_ALT"
 		(shape input)
 		(at 1131.57 318.77 180)
 		(fields_autoplaced yes)
@@ -25245,7 +25245,7 @@
 			)
 		)
 	)
-	(global_label "SMB1_SDA"
+	(global_label "SYS_SMB_SDA"
 		(shape input)
 		(at 1131.57 323.85 180)
 		(fields_autoplaced yes)
@@ -36584,7 +36584,6 @@
 		)
 	)
 	(symbol
-		(lib_name "mediacow:TPD4EUSB30")
 		(lib_id "mediacow:TPD4EUSB30")
 		(at 1126.49 148.59 0)
 		(unit 1)
@@ -39760,7 +39759,6 @@
 		)
 	)
 	(symbol
-		(lib_name "mediacow:TPD4EUSB30")
 		(lib_id "mediacow:TPD4EUSB30")
 		(at 1126.49 82.55 0)
 		(unit 1)
