@@ -27880,7 +27880,6 @@
 		)
 	)
 	(symbol
-		(lib_name "mediacow:TPD4EUSB30")
 		(lib_id "mediacow:TPD4EUSB30")
 		(at 744.22 300.99 0)
 		(unit 1)
@@ -41518,7 +41517,6 @@
 		)
 	)
 	(symbol
-		(lib_name "mediacow:TPD4EUSB30")
 		(lib_id "mediacow:TPD4EUSB30")
 		(at 767.08 300.99 0)
 		(unit 1)
