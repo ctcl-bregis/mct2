@@ -6264,6 +6264,34 @@
 		(uuid "e8011491-0693-499b-9fe6-d95775a2cfeb")
 	)
 	(no_connect
+		(at 306.07 347.98)
+		(uuid "0cf5baa2-9703-454d-9619-1ca47a4500b9")
+	)
+	(no_connect
+		(at 306.07 328.93)
+		(uuid "103bf18f-3945-4262-94e6-78985fdbb2dc")
+	)
+	(no_connect
+		(at 306.07 323.85)
+		(uuid "1ad2d4f5-1769-4a07-bced-b5df54fa7189")
+	)
+	(no_connect
+		(at 306.07 294.64)
+		(uuid "1ec97270-dac5-4fec-8306-03315bf52e0b")
+	)
+	(no_connect
+		(at 306.07 292.1)
+		(uuid "1f40b330-83eb-4273-a32c-669ad078688b")
+	)
+	(no_connect
+		(at 306.07 345.44)
+		(uuid "24c9fc1f-127f-441d-9883-72cd6b78e020")
+	)
+	(no_connect
+		(at 306.07 289.56)
+		(uuid "24cfb340-3778-45c0-b88e-1df855c3d343")
+	)
+	(no_connect
 		(at 306.07 118.11)
 		(uuid "292a97ec-3cba-44d7-be2f-7066ca31d4df")
 	)
@@ -6272,8 +6300,16 @@
 		(uuid "2b0b01b2-27fb-4c76-a32d-0d4630711486")
 	)
 	(no_connect
+		(at 306.07 335.28)
+		(uuid "2ccc8b53-1167-4a06-8b9f-c4474b448447")
+	)
+	(no_connect
 		(at 224.79 280.67)
 		(uuid "33148984-a247-47cb-ba85-d20e3300008e")
+	)
+	(no_connect
+		(at 306.07 331.47)
+		(uuid "3b9cbb1a-76ef-420d-90f6-d291ece1905b")
 	)
 	(no_connect
 		(at 224.79 195.58)
@@ -6284,8 +6320,28 @@
 		(uuid "60ea9d53-511b-4d9e-9755-9c0a3e51cda6")
 	)
 	(no_connect
+		(at 306.07 318.77)
+		(uuid "726c4385-48c2-44d6-9d6c-9c0e8e61ba41")
+	)
+	(no_connect
+		(at 306.07 342.9)
+		(uuid "7aae9e7d-5ae6-47a7-b923-b1f3b1b75073")
+	)
+	(no_connect
 		(at 306.07 110.49)
 		(uuid "8c5f1eda-6276-47c8-9ee9-d4c7a06b3569")
+	)
+	(no_connect
+		(at 306.07 337.82)
+		(uuid "8e72bc5f-ee50-4fe1-8c4b-2a1706d7707d")
+	)
+	(no_connect
+		(at 306.07 297.18)
+		(uuid "93e179d2-390e-4c03-bc7e-d563d7c8da35")
+	)
+	(no_connect
+		(at 306.07 299.72)
+		(uuid "b6d5c96e-a3cd-4171-b3f6-99d8928f91e3")
 	)
 	(no_connect
 		(at 224.79 316.23)
@@ -6294,6 +6350,18 @@
 	(no_connect
 		(at 224.79 318.77)
 		(uuid "c9c4e196-55fd-4b4f-a73c-8a0a9b49840c")
+	)
+	(no_connect
+		(at 306.07 340.36)
+		(uuid "e2f03fbd-5bef-4e76-8697-3523a1836fb6")
+	)
+	(no_connect
+		(at 306.07 326.39)
+		(uuid "e4c327c2-3cba-4703-8d26-93da7cbc0ce9")
+	)
+	(no_connect
+		(at 306.07 321.31)
+		(uuid "e58a0806-6784-42c4-8b0c-06cd1cabb8f6")
 	)
 	(no_connect
 		(at 224.79 200.66)
@@ -8001,6 +8069,17 @@
 		)
 		(uuid "35a180b7-a079-4cd3-b7c3-d3cdef690096")
 	)
+	(text "Note: SIO fan and pin \nconnections may be unused"
+		(exclude_from_sim no)
+		(at 323.342 94.996 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d7091fd-3129-4758-a80a-fa45707ff101")
+	)
 	(text "MediaCow Touch 2 - System"
 		(exclude_from_sim no)
 		(at 504.698 399.542 0)
@@ -8031,6 +8110,17 @@
 			)
 		)
 		(uuid "a63e1c33-f8a9-4779-9d01-2dcc9f857321")
+	)
+	(text "To-Do: find out if AUX \nis needed for HDMI\n"
+		(exclude_from_sim no)
+		(at 199.898 247.904 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5eb75ee-aa64-4652-9c08-4cc109e322a2")
 	)
 	(global_label "SIO_TSENSE"
 		(shape input)

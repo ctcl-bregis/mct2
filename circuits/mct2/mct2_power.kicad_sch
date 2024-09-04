@@ -47690,7 +47690,7 @@
 				)
 			)
 		)
-		(property "Value" " BAT201M3"
+		(property "Value" "BAT201M3"
 			(at 345.694 455.93 0)
 			(effects
 				(font
