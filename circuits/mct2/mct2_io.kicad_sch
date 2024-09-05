@@ -20060,7 +20060,7 @@
 		)
 		(uuid e82efd7d-a01c-4a70-b87e-353847916660)
 	)
-	(text "MediaCow Touch 2 - System"
+	(text "MediaCow Touch 2 - IO"
 		(exclude_from_sim no)
 		(at 1098.042 820.674 0)
 		(effects
