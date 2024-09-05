@@ -31423,7 +31423,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 772.668 437.134 0)
 			(effects
 				(font
@@ -31985,7 +31985,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 749.808 437.134 0)
 			(effects
 				(font
@@ -33882,7 +33882,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 749.808 325.374 0)
 			(effects
 				(font
@@ -50344,7 +50344,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 772.668 325.374 0)
 			(effects
 				(font

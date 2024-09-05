@@ -20243,7 +20243,7 @@
 			)
 		)
 	)
-	(global_label "EUSB3_FLT"
+	(global_label "USB_EXT3_FLT"
 		(shape input)
 		(at 1057.91 189.23 0)
 		(fields_autoplaced yes)
@@ -20573,7 +20573,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_EN"
+	(global_label "USB_EXT1_EN"
 		(shape input)
 		(at 1021.08 116.84 180)
 		(fields_autoplaced yes)
@@ -20727,7 +20727,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_SSTX1P"
+	(global_label "USB_EXT0_SSTX1P"
 		(shape input)
 		(at 1078.23 68.58 180)
 		(fields_autoplaced yes)
@@ -20749,7 +20749,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_SSTX1N"
+	(global_label "USB_EXT0_SSTX1N"
 		(shape input)
 		(at 1078.23 66.04 180)
 		(fields_autoplaced yes)
@@ -21255,7 +21255,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_SSRX1P"
+	(global_label "USB_EXT1_SSRX1P"
 		(shape input)
 		(at 1080.77 127 180)
 		(fields_autoplaced yes)
@@ -21607,7 +21607,7 @@
 			)
 		)
 	)
-	(global_label "EUSB2_EN"
+	(global_label "USB_EXT2_EN"
 		(shape input)
 		(at 1021.08 166.37 180)
 		(fields_autoplaced yes)
@@ -21893,7 +21893,7 @@
 			)
 		)
 	)
-	(global_label "EUSB2_FLT"
+	(global_label "USB_EXT2_FLT"
 		(shape input)
 		(at 1057.91 166.37 0)
 		(fields_autoplaced yes)
@@ -21915,7 +21915,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_DP"
+	(global_label "USB_EXT0_DP"
 		(shape input)
 		(at 1109.98 53.34 180)
 		(fields_autoplaced yes)
@@ -22025,7 +22025,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_SSRX1N"
+	(global_label "USB_EXT1_SSRX1N"
 		(shape input)
 		(at 1080.77 124.46 180)
 		(fields_autoplaced yes)
@@ -22421,7 +22421,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_SSTX1P"
+	(global_label "USB_EXT1_SSTX1P"
 		(shape input)
 		(at 1080.77 134.62 180)
 		(fields_autoplaced yes)
@@ -22619,7 +22619,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_DN"
+	(global_label "USB_EXT1_DN"
 		(shape input)
 		(at 1112.52 116.84 180)
 		(fields_autoplaced yes)
@@ -22795,7 +22795,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_FLT"
+	(global_label "USB_EXT0_FLT"
 		(shape input)
 		(at 1057.91 50.8 0)
 		(fields_autoplaced yes)
@@ -22839,7 +22839,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_FLT"
+	(global_label "USB_EXT1_FLT"
 		(shape input)
 		(at 1057.91 116.84 0)
 		(fields_autoplaced yes)
@@ -23081,7 +23081,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_SSRX1P"
+	(global_label "USB_EXT0_SSRX1P"
 		(shape input)
 		(at 1078.23 60.96 180)
 		(fields_autoplaced yes)
@@ -23103,7 +23103,7 @@
 			)
 		)
 	)
-	(global_label "EUSB2_DN"
+	(global_label "USB_EXT2_DN"
 		(shape input)
 		(at 1096.01 181.61 180)
 		(fields_autoplaced yes)
@@ -23169,7 +23169,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_DN"
+	(global_label "USB_EXT0_DN"
 		(shape input)
 		(at 1109.98 50.8 180)
 		(fields_autoplaced yes)
@@ -23433,7 +23433,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_SSTX1N"
+	(global_label "USB_EXT1_SSTX1N"
 		(shape input)
 		(at 1080.77 132.08 180)
 		(fields_autoplaced yes)
@@ -23653,7 +23653,7 @@
 			)
 		)
 	)
-	(global_label "EUSB2_DP"
+	(global_label "USB_EXT2_DP"
 		(shape input)
 		(at 1096.01 179.07 180)
 		(fields_autoplaced yes)
@@ -23675,7 +23675,7 @@
 			)
 		)
 	)
-	(global_label "EUSB3_DN"
+	(global_label "USB_EXT3_DN"
 		(shape input)
 		(at 1096.01 186.69 180)
 		(fields_autoplaced yes)
@@ -23983,7 +23983,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_EN"
+	(global_label "USB_EXT0_EN"
 		(shape input)
 		(at 1021.08 50.8 180)
 		(fields_autoplaced yes)
@@ -24137,7 +24137,7 @@
 			)
 		)
 	)
-	(global_label "EUSB3_EN"
+	(global_label "USB_EXT3_EN"
 		(shape input)
 		(at 1021.08 189.23 180)
 		(fields_autoplaced yes)
@@ -24181,7 +24181,7 @@
 			)
 		)
 	)
-	(global_label "EUSB1_DP"
+	(global_label "USB_EXT1_DP"
 		(shape input)
 		(at 1112.52 119.38 180)
 		(fields_autoplaced yes)
@@ -24291,7 +24291,7 @@
 			)
 		)
 	)
-	(global_label "EUSB3_DP"
+	(global_label "USB_EXT3_DP"
 		(shape input)
 		(at 1096.01 184.15 180)
 		(fields_autoplaced yes)
@@ -24511,7 +24511,7 @@
 			)
 		)
 	)
-	(global_label "EUSB0_SSRX1N"
+	(global_label "USB_EXT0_SSRX1N"
 		(shape input)
 		(at 1078.23 58.42 180)
 		(fields_autoplaced yes)
@@ -31388,7 +31388,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 960.12 284.48 0)
 			(effects
 				(font
@@ -32487,7 +32487,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 1131.316 139.954 0)
 			(effects
 				(font
@@ -32785,7 +32785,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 1127.76 190.5 0)
 			(effects
 				(font
@@ -34388,7 +34388,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 1131.824 96.774 0)
 			(effects
 				(font
@@ -34594,7 +34594,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 1131.316 73.914 0)
 			(effects
 				(font
@@ -35089,7 +35089,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 1129.284 30.734 0)
 			(effects
 				(font
@@ -36998,7 +36998,7 @@
 				)
 			)
 		)
-		(property "Value" "TPD4EUSB30"
+		(property "Value" "TPD4USB_EXT30"
 			(at 1109.98 190.5 0)
 			(effects
 				(font

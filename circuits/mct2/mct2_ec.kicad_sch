@@ -5499,16 +5499,6 @@
 	)
 	(wire
 		(pts
-			(xy 411.48 353.06) (xy 457.2 353.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c608e68-1c35-4f70-a369-a42df1847ee8")
-	)
-	(wire
-		(pts
 			(xy 388.62 317.5) (xy 391.16 317.5)
 		)
 		(stroke
@@ -5626,16 +5616,6 @@
 			(type default)
 		)
 		(uuid "7380d9c1-2f68-4571-ba2a-710d2af3e604")
-	)
-	(wire
-		(pts
-			(xy 411.48 355.6) (xy 457.2 355.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "768fdcb2-0b58-4486-9371-7f4fd5e75a95")
 	)
 	(wire
 		(pts
@@ -6537,28 +6517,6 @@
 			)
 		)
 	)
-	(global_label "USB_SMEC_N"
-		(shape input)
-		(at 457.2 353.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "680cf8e5-9ca0-4c86-8ab1-3b658b464b4c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 472.3408 353.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SML_SCL"
 		(shape input)
 		(at 497.84 393.7 0)
@@ -6665,28 +6623,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_SMEC_P"
-		(shape input)
-		(at 457.2 355.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7b814e97-f397-49f7-a97a-f9e80a9d7ec1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 472.2803 355.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
