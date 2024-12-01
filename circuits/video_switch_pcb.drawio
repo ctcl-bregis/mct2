@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="pYFhWjRpLVZ4nRkJkQFB">
+    <mxGraphModel dx="1434" dy="827" grid="1" gridSize="3.937" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UOZABrlbIqTyISldkYaW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="251.96999999999997" y="110.23999999999998" width="196.85" height="236.22" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoxoDQ59nY1Z0Lb3G8y-1" value="MediaCow Touch 2 &quot;Paris&quot; - CTCL 2021-2024&lt;br style=&quot;font-size: 16px;&quot;&gt;Description: SMEC-System Video Switch rough PCB layout&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Created: December 1, 2024&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Modified: December 1, 2024&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="3.94" width="334.65" height="98.42" as="geometry" />
+        </mxCell>
+        <mxCell id="UOZABrlbIqTyISldkYaW-1" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="18.19" y="126.30000000000004" width="39.37" height="19.69" as="geometry" />
+        </mxCell>
+        <mxCell id="UOZABrlbIqTyISldkYaW-2" value="10mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="7.870000000000001" y="106.29999999999998" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UOZABrlbIqTyISldkYaW-3" value="TI&lt;div&gt;TFP401A&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;fontColor=#FFFFFF;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="350.4" y="248.03999999999996" width="55.90539999999999" height="55.90539999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-1" value="" style="whiteSpace=wrap;html=1;fillColor=#333333;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="287.4" y="169.29" width="19.685" height="19.685" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-2" value="Display eDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="267.71999999999997" y="110.23999999999998" width="59.06" height="11.81" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-3" value="ITE&lt;div&gt;IT6505&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#333333;fontColor=#FFFFFF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="338.58700000000005" y="141.73700000000002" width="78.74" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wEQ5dXqhj_t8ezE2j6Q1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244.17000000000002" y="146.13" as="sourcePoint" />
+            <mxPoint x="279.17" y="165.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-5" value="TI&lt;br&gt;HD3SS212" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177.15999999999994" y="118.10999999999997" width="66.92" height="27.56" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-7" value="SMEC TMDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="358.27" y="334.65" width="39.37" height="11.81" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-8" value="System eDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="267.71700000000004" y="334.647" width="59.06" height="11.81" as="geometry" />
+        </mxCell>
+        <mxCell id="wEQ5dXqhj_t8ezE2j6Q1-9" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="409.45" y="334.65" width="19.69" height="11.81" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
