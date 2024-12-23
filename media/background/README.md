@@ -1,6 +1,7 @@
 Original images are available with EXIF data for those that are interested in the camera settings used
 All photos taken with: ASUS Zenfone 9 (AI2202)
 
+```
 File: mct2_maymont_1.png
 Source: src/P_20241222_121657.jpg
 Date: December 22, 2024
@@ -45,3 +46,4 @@ File: mct2_rockwood_1.png
 Source: src/P_20241209_143043.jpg
 Date: December 9, 2024
 Location: Rockwood Park, Richmond, Virginia, US
+```
