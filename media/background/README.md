@@ -7,6 +7,11 @@ Source: src/P_20241222_121657.jpg
 Date: December 22, 2024
 Location: Maymont Estate, Richmond, Virginia, US
 
+File: mct2_maymont_1_v2.png
+Source: src/P_20250105_132705.jpg
+Date: January 5, 2025
+Location: Maymont Estate, Richmond, Virginia, US
+
 File: mct2_maymont_2.png
 Source: src/P_20241209_110836.jpg
 Date: December 9, 2024
@@ -31,6 +36,11 @@ File: mct2_midlo_1.png
 Source: src/P_20241214_075340.jpg
 Date: December 14, 2024
 Location: Nuttree Park, Brandermill, Midlothian, Virginia, US
+
+File: mct2_midlo_1_v2.png
+Source: src/P_20250106_170631.jpg
+Date: January 6, 2025
+Location: Midlothian, Virginia, US
 
 File: mct2_ny_1.png
 Source: src/P_20241128_152515.jpg

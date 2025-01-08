@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "bdb6a7b8-9531-41d5-93e0-540e108aab1d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 260.35 146.05)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "99d60d4c-b127-4a21-ac5c-8a2b816b61bb")
+		(property "Sheetname" "Type C"
+			(at 260.35 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usbc.kicad_sch"
+			(at 260.35 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mct2"
+				(path "/bdb6a7b8-9531-41d5-93e0-540e108aab1d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 146.05)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b99a3c44-5aa1-43c8-ae22-cd93b920b2e6")
+		(property "Sheetname" "SMEC"
+			(at 241.3 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "smec.kicad_sch"
+			(at 241.3 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mct2"
+				(path "/bdb6a7b8-9531-41d5-93e0-540e108aab1d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

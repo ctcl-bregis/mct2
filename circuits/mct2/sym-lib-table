@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MediaCow")(type "KiCad")(uri "/home/ctcl/Documents/mct2/circuits/kicad/mediacow.kicad_sym")(options "")(descr ""))
+  (lib (name "SP7021")(type "KiCad")(uri "/home/ctcl/Documents/mct2/circuits/kicad/sp7021.kicad_sym")(options "")(descr ""))
+)
