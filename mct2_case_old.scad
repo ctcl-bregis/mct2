@@ -73,6 +73,7 @@ box_length = lcd_dims[1] + (case_post_size * 2) + (case_outer_wall_width * 2);
 
 // Total size of the case
 box_dims = [box_width, box_length, box_height];
+echo(box_dims);
 // Size of the inside part of the box without display rest walls
 box_total_inner_size = [lcd_dims[0] + (case_post_size * 2), lcd_dims[1] + (case_post_size * 2), box_height];
 // Size of the inside part of the box with display rest walls
