@@ -1,0 +1,33 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "a3cdd425-c287-4659-b07f-0586e0fd9d81")
+	(paper "A4")
+	(lib_symbols)
+	(text "MediaCow Touch 2 - Audio PCB"
+		(exclude_from_sim no)
+		(at 201.93 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "227873b9-f80a-43fa-9b6b-d62db6f52d35")
+	)
+	(text "January 29, 2025 - January 29, 2025"
+		(exclude_from_sim no)
+		(at 225.552 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7d1a4d25-3631-4596-a90d-2fea8c56d320")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
