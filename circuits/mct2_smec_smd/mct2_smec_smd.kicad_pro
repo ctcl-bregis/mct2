@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bpi-f2p_rgb2mipi.kicad_pro",
+    "filename": "mct2_smec_smd.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,6 +382,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "e2495cce-e4ec-42b2-b68f-de95602bbf28",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }

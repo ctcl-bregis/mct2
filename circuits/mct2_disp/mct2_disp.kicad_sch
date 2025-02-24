@@ -3924,7 +3924,7 @@
 	)
 	(global_label "BL_EN_EXT"
 		(shape input)
-		(at 127 240.03 0)
+		(at 127 242.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3934,7 +3934,7 @@
 		)
 		(uuid "cd2c872d-d1fd-4a10-9942-51ce46eb52c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.0241 240.03 0)
+			(at 140.0241 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4210,7 +4210,7 @@
 	)
 	(global_label "BL_PWM_EXT"
 		(shape input)
-		(at 127 242.57 0)
+		(at 127 240.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4220,7 +4220,7 @@
 		)
 		(uuid "f39475d7-51b6-4f79-ae59-abfb7a32ee0e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 141.7174 242.57 0)
+			(at 141.7174 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4578,10 +4578,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "37b3011b-733c-45b3-bc43-ed308fe3cf34")
 		(property "Reference" "J2"
-			(at 270.51 130.8099 0)
+			(at 258.826 188.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4590,7 +4589,7 @@
 			)
 		)
 		(property "Value" "20455-040E-76"
-			(at 270.51 133.3499 0)
+			(at 264.16 188.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5291,7 +5290,7 @@
 		(dnp no)
 		(uuid "b1dd2d76-468e-4963-9488-9217a5b48d96")
 		(property "Reference" "J1"
-			(at 110.49 125.7301 0)
+			(at 128.27 183.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,7 +5299,7 @@
 			)
 		)
 		(property "Value" "20455-040E-76"
-			(at 110.49 123.1901 0)
+			(at 128.27 180.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
