@@ -5874,7 +5874,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -3.81 180)
+				(at 15.24 11.43 180)
 				(length 2.54)
 				(name "IOR13A"
 					(effects
@@ -5892,7 +5892,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -6.35 180)
+				(at 15.24 8.89 180)
 				(length 2.54)
 				(name "IOR13B"
 					(effects
@@ -5910,7 +5910,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -8.89 180)
+				(at 15.24 6.35 180)
 				(length 2.54)
 				(name "IOR11B/GCLKC_2"
 					(effects
@@ -5928,7 +5928,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -11.43 180)
+				(at 15.24 3.81 180)
 				(length 2.54)
 				(name "IOR11A/GCLKT_2"
 					(effects
@@ -5946,7 +5946,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 11.43 180)
+				(at 15.24 1.27 180)
 				(length 2.54)
 				(name "IOR5B/MO/D6"
 					(effects
@@ -5964,7 +5964,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 8.89 180)
+				(at 15.24 -1.27 180)
 				(length 2.54)
 				(name "IOR5A/MI/D7"
 					(effects
@@ -5982,7 +5982,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 6.35 180)
+				(at 15.24 -3.81 180)
 				(length 2.54)
 				(name "IOR3B/D3"
 					(effects
@@ -6000,7 +6000,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 3.81 180)
+				(at 15.24 -6.35 180)
 				(length 2.54)
 				(name "IOR3A/D2"
 					(effects
@@ -6018,7 +6018,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 1.27 180)
+				(at 15.24 -8.89 180)
 				(length 2.54)
 				(name "IOR1B"
 					(effects
@@ -6036,7 +6036,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -1.27 180)
+				(at 15.24 -11.43 180)
 				(length 2.54)
 				(name "IOR1A"
 					(effects
