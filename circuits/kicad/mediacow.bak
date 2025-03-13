@@ -757,8 +757,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 50.8 0)
-				(length 5.08)
+				(at -7.62 50.8 0)
+				(length 2.54)
 				(name "1"
 					(effects
 						(font
@@ -775,8 +775,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 27.94 0)
-				(length 5.08)
+				(at -7.62 27.94 0)
+				(length 2.54)
 				(name "10"
 					(effects
 						(font
@@ -793,8 +793,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 25.4 0)
-				(length 5.08)
+				(at -7.62 25.4 0)
+				(length 2.54)
 				(name "11"
 					(effects
 						(font
@@ -811,8 +811,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 22.86 0)
-				(length 5.08)
+				(at -7.62 22.86 0)
+				(length 2.54)
 				(name "12"
 					(effects
 						(font
@@ -829,8 +829,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 20.32 0)
-				(length 5.08)
+				(at -7.62 20.32 0)
+				(length 2.54)
 				(name "13"
 					(effects
 						(font
@@ -847,8 +847,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 17.78 0)
-				(length 5.08)
+				(at -7.62 17.78 0)
+				(length 2.54)
 				(name "14"
 					(effects
 						(font
@@ -865,8 +865,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 15.24 0)
-				(length 5.08)
+				(at -7.62 15.24 0)
+				(length 2.54)
 				(name "15"
 					(effects
 						(font
@@ -883,8 +883,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 12.7 0)
-				(length 5.08)
+				(at -7.62 12.7 0)
+				(length 2.54)
 				(name "16"
 					(effects
 						(font
@@ -901,8 +901,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 10.16 0)
-				(length 5.08)
+				(at -7.62 10.16 0)
+				(length 2.54)
 				(name "17"
 					(effects
 						(font
@@ -919,8 +919,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 7.62 0)
-				(length 5.08)
+				(at -7.62 7.62 0)
+				(length 2.54)
 				(name "18"
 					(effects
 						(font
@@ -937,8 +937,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 5.08 0)
-				(length 5.08)
+				(at -7.62 5.08 0)
+				(length 2.54)
 				(name "19"
 					(effects
 						(font
@@ -955,8 +955,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 48.26 0)
-				(length 5.08)
+				(at -7.62 48.26 0)
+				(length 2.54)
 				(name "2"
 					(effects
 						(font
@@ -973,8 +973,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 2.54 0)
-				(length 5.08)
+				(at -7.62 2.54 0)
+				(length 2.54)
 				(name "20"
 					(effects
 						(font
@@ -991,8 +991,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 0 0)
-				(length 5.08)
+				(at -7.62 0 0)
+				(length 2.54)
 				(name "21"
 					(effects
 						(font
@@ -1009,8 +1009,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -2.54 0)
-				(length 5.08)
+				(at -7.62 -2.54 0)
+				(length 2.54)
 				(name "22"
 					(effects
 						(font
@@ -1027,8 +1027,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -5.08 0)
-				(length 5.08)
+				(at -7.62 -5.08 0)
+				(length 2.54)
 				(name "23"
 					(effects
 						(font
@@ -1045,8 +1045,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -7.62 0)
-				(length 5.08)
+				(at -7.62 -7.62 0)
+				(length 2.54)
 				(name "24"
 					(effects
 						(font
@@ -1063,8 +1063,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -10.16 0)
-				(length 5.08)
+				(at -7.62 -10.16 0)
+				(length 2.54)
 				(name "25"
 					(effects
 						(font
@@ -1081,8 +1081,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -12.7 0)
-				(length 5.08)
+				(at -7.62 -12.7 0)
+				(length 2.54)
 				(name "26"
 					(effects
 						(font
@@ -1099,8 +1099,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -15.24 0)
-				(length 5.08)
+				(at -7.62 -15.24 0)
+				(length 2.54)
 				(name "27"
 					(effects
 						(font
@@ -1117,8 +1117,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -17.78 0)
-				(length 5.08)
+				(at -7.62 -17.78 0)
+				(length 2.54)
 				(name "28"
 					(effects
 						(font
@@ -1135,8 +1135,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -20.32 0)
-				(length 5.08)
+				(at -7.62 -20.32 0)
+				(length 2.54)
 				(name "29"
 					(effects
 						(font
@@ -1153,8 +1153,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 45.72 0)
-				(length 5.08)
+				(at -7.62 45.72 0)
+				(length 2.54)
 				(name "3"
 					(effects
 						(font
@@ -1171,8 +1171,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -22.86 0)
-				(length 5.08)
+				(at -7.62 -22.86 0)
+				(length 2.54)
 				(name "30"
 					(effects
 						(font
@@ -1189,8 +1189,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -25.4 0)
-				(length 5.08)
+				(at -7.62 -25.4 0)
+				(length 2.54)
 				(name "31"
 					(effects
 						(font
@@ -1207,8 +1207,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -27.94 0)
-				(length 5.08)
+				(at -7.62 -27.94 0)
+				(length 2.54)
 				(name "32"
 					(effects
 						(font
@@ -1225,8 +1225,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -30.48 0)
-				(length 5.08)
+				(at -7.62 -30.48 0)
+				(length 2.54)
 				(name "33"
 					(effects
 						(font
@@ -1243,8 +1243,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -33.02 0)
-				(length 5.08)
+				(at -7.62 -33.02 0)
+				(length 2.54)
 				(name "34"
 					(effects
 						(font
@@ -1261,8 +1261,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -35.56 0)
-				(length 5.08)
+				(at -7.62 -35.56 0)
+				(length 2.54)
 				(name "35"
 					(effects
 						(font
@@ -1279,8 +1279,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -38.1 0)
-				(length 5.08)
+				(at -7.62 -38.1 0)
+				(length 2.54)
 				(name "36"
 					(effects
 						(font
@@ -1297,8 +1297,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -40.64 0)
-				(length 5.08)
+				(at -7.62 -40.64 0)
+				(length 2.54)
 				(name "37"
 					(effects
 						(font
@@ -1315,8 +1315,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -43.18 0)
-				(length 5.08)
+				(at -7.62 -43.18 0)
+				(length 2.54)
 				(name "38"
 					(effects
 						(font
@@ -1333,8 +1333,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -45.72 0)
-				(length 5.08)
+				(at -7.62 -45.72 0)
+				(length 2.54)
 				(name "39"
 					(effects
 						(font
@@ -1351,8 +1351,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 43.18 0)
-				(length 5.08)
+				(at -7.62 43.18 0)
+				(length 2.54)
 				(name "4"
 					(effects
 						(font
@@ -1369,8 +1369,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -48.26 0)
-				(length 5.08)
+				(at -7.62 -48.26 0)
+				(length 2.54)
 				(name "40"
 					(effects
 						(font
@@ -1387,8 +1387,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 40.64 0)
-				(length 5.08)
+				(at -7.62 40.64 0)
+				(length 2.54)
 				(name "5"
 					(effects
 						(font
@@ -1405,8 +1405,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 38.1 0)
-				(length 5.08)
+				(at -7.62 38.1 0)
+				(length 2.54)
 				(name "6"
 					(effects
 						(font
@@ -1423,8 +1423,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 35.56 0)
-				(length 5.08)
+				(at -7.62 35.56 0)
+				(length 2.54)
 				(name "7"
 					(effects
 						(font
@@ -1441,8 +1441,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 33.02 0)
-				(length 5.08)
+				(at -7.62 33.02 0)
+				(length 2.54)
 				(name "8"
 					(effects
 						(font
@@ -1459,8 +1459,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 30.48 0)
-				(length 5.08)
+				(at -7.62 30.48 0)
+				(length 2.54)
 				(name "9"
 					(effects
 						(font
@@ -1477,8 +1477,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -53.34 0)
-				(length 5.08)
+				(at -7.62 -53.34 0)
+				(length 2.54)
 				(name "SHIELD"
 					(effects
 						(font
@@ -1495,8 +1495,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -53.34 0)
-				(length 5.08)
+				(at -7.62 -53.34 0)
+				(length 2.54)
 				(name "SHIELD"
 					(effects
 						(font
@@ -1513,8 +1513,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -53.34 0)
-				(length 5.08)
+				(at -7.62 -53.34 0)
+				(length 2.54)
 				(name "SHIELD"
 					(effects
 						(font
@@ -1531,8 +1531,8 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -53.34 0)
-				(length 5.08)
+				(at -7.62 -53.34 0)
+				(length 2.54)
 				(name "SHIELD"
 					(effects
 						(font
@@ -15901,6 +15901,213 @@
 					)
 				)
 				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "TCA9416"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "TCA9416_0_1"
+			(rectangle
+				(start -6.35 6.35)
+				(end 6.35 -6.35)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "TCA9416_1_1"
+			(pin input line
+				(at 8.89 -3.81 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -8.89 -3.81 0)
+				(length 2.54)
+				(name "OE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -8.89 1.27 0)
+				(length 2.54)
+				(name "SCL_A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 8.89 1.27 180)
+				(length 2.54)
+				(name "SCL_B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -8.89 -1.27 0)
+				(length 2.54)
+				(name "SDA_A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 8.89 -1.27 180)
+				(length 2.54)
+				(name "SDA_B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -8.89 3.81 0)
+				(length 2.54)
+				(name "VCCA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 8.89 3.81 180)
+				(length 2.54)
+				(name "VCCB"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
 					(effects
 						(font
 							(size 1.27 1.27)
