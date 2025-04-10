@@ -2876,6 +2876,18 @@
 		)
 		(uuid "fd59cf16-84c5-4332-b346-948d9df676de")
 	)
+	(rectangle
+		(start 279.4 152.4)
+		(end 406.4 241.3)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7839209b-25cd-4d08-b0f6-b12bea389220)
+	)
 	(text "MediaCow Touch 2 Lite - IO"
 		(exclude_from_sim no)
 		(at 324.104 277.114 0)
@@ -2886,7 +2898,7 @@
 		)
 		(uuid "0aafdd1e-7c58-4462-9941-d5c3a6b14f39")
 	)
-	(text "2025-03-23 - 2025-03-29"
+	(text "2025-03-23 - 2025-04-10"
 		(exclude_from_sim no)
 		(at 343.916 280.416 0)
 		(effects
@@ -2896,15 +2908,25 @@
 		)
 		(uuid "49b152de-3440-4d05-83d6-02a94b5c8391")
 	)
-	(text "CTCL 2021-2025"
+	(text "MediaCow Touch 2 Lite \"Curitiba\" - CTCL 2021-2025"
 		(exclude_from_sim no)
-		(at 309.118 267.462 0)
+		(at 327.406 266.954 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "a8c347db-b616-45d1-b196-59ea74b3f250")
+	)
+	(text "HDMI"
+		(exclude_from_sim no)
+		(at 284.48 150.368 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c23ae926-70ad-4262-b239-27ab232b8a0d")
 	)
 	(label "HDMI_CN_SCL"
 		(at 344.17 201.93 0)
