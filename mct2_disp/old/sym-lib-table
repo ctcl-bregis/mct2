@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mediacow")(type "KiCad")(uri "/home/ctcl/Documents/mct2/kicad/mediacow.kicad_sym")(options "")(descr ""))
+)

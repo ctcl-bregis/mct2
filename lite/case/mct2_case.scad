@@ -1,7 +1,7 @@
-// MediaCow Touch 2 - CTCL 2021-2025
+// MediaCow Touch 2 Lite - CTCL 2021-2025
 // Purpose: Case design
 // Created: July 7, 2024
-// Modified: February 16, 2025
+// Modified: March 26, 2025
 
 // Units: mm
 
@@ -27,7 +27,7 @@ dispcover_height = 2;
 // Thickness of the back of the case
 case_base_height = 2;
 // Distance from the bottom of the case to the bottom of the LCD mount
-case_internal_height = 30;
+case_internal_height = 15;
 // Width of the walls that the display mount rests on
 case_inner_wall_width = 5;
 // Width of the outer structural wall of the case
