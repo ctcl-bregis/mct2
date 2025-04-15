@@ -3138,7 +3138,7 @@
 		)
 		(uuid "0aafdd1e-7c58-4462-9941-d5c3a6b14f39")
 	)
-	(text "2025-03-23 - 2025-04-14"
+	(text "2025-03-23 - 2025-04-15"
 		(exclude_from_sim no)
 		(at 343.916 280.416 0)
 		(effects
@@ -3170,6 +3170,7 @@
 	)
 	(label "HDMI_CN_SCL"
 		(at 344.17 201.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3180,6 +3181,7 @@
 	)
 	(label "USB_EXT0_USB2_N"
 		(at 349.25 30.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3190,6 +3192,7 @@
 	)
 	(label "USB_EXT1_SSRX0_P"
 		(at 350.52 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3200,6 +3203,7 @@
 	)
 	(label "USB_EXT1_SSRX0_N"
 		(at 350.52 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3210,6 +3214,7 @@
 	)
 	(label "HDMI_CLKP"
 		(at 344.17 194.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3220,6 +3225,7 @@
 	)
 	(label "HDMI_CLKN"
 		(at 344.17 196.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3230,6 +3236,7 @@
 	)
 	(label "HDMI_CN_SDA"
 		(at 344.17 204.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3240,6 +3247,7 @@
 	)
 	(label "HDMI_D2N"
 		(at 344.17 181.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3250,6 +3258,7 @@
 	)
 	(label "USB_EXT0_SSRX0_P"
 		(at 349.25 40.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3260,6 +3269,7 @@
 	)
 	(label "HDMI_D0P"
 		(at 344.17 189.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3270,6 +3280,7 @@
 	)
 	(label "USB_EXT1_USB2_P"
 		(at 350.52 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3280,6 +3291,7 @@
 	)
 	(label "USB_EXT1_SSRX1_P"
 		(at 350.52 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3290,6 +3302,7 @@
 	)
 	(label "HDMI_UTILITY"
 		(at 365.76 214.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3300,6 +3313,7 @@
 	)
 	(label "USB_EXT0_SSRX1_P"
 		(at 349.25 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3310,6 +3324,7 @@
 	)
 	(label "HDMI_CN_CEC"
 		(at 344.17 199.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3320,6 +3335,7 @@
 	)
 	(label "USB_EXT0_USB2_P"
 		(at 349.25 33.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3330,6 +3346,7 @@
 	)
 	(label "USB_EXT1_USB2_N"
 		(at 350.52 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3340,6 +3357,7 @@
 	)
 	(label "USB_EXT1_SSRX1_N"
 		(at 350.52 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3350,6 +3368,7 @@
 	)
 	(label "HDMI_D2P"
 		(at 344.17 179.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3360,6 +3379,7 @@
 	)
 	(label "HDMI_CN_HPD"
 		(at 344.17 207.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3370,6 +3390,7 @@
 	)
 	(label "USB_EXT0_SSRX0_N"
 		(at 349.25 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3380,6 +3401,7 @@
 	)
 	(label "HDMI_D1P"
 		(at 344.17 184.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3390,6 +3412,7 @@
 	)
 	(label "USB_EXT0_SSRX1_N"
 		(at 349.25 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3400,6 +3423,7 @@
 	)
 	(label "HDMI_D1N"
 		(at 344.17 186.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3410,6 +3434,7 @@
 	)
 	(label "HDMI_D0N"
 		(at 344.17 191.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

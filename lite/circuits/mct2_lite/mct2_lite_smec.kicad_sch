@@ -1,0 +1,390 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "89d4e947-38d4-4456-98d6-6289ac717962")
+	(paper "A4")
+	(lib_symbols)
+	(text "MediaCow Touch 2 Lite - SMEC"
+		(exclude_from_sim no)
+		(at 201.168 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1a1c114f-5553-4066-8559-de841e6923dd")
+	)
+	(text "MediaCow Touch 2 Lite \"Curitiba\" - CTCL 2021-2025"
+		(exclude_from_sim no)
+		(at 204.724 180.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "92f8133f-8557-440e-ae39-f83fcebb3a4d")
+	)
+	(text "2025-04-15 - 2025-04-15"
+		(exclude_from_sim no)
+		(at 220.98 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c9cb85ff-29b6-4309-a047-93004c85cdc0")
+	)
+	(global_label "SOM_PWRBTN"
+		(shape input)
+		(at 165.1 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "010742c7-7ba7-4f08-a0cb-1697e7109bc5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.5963 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_SIO_SLS_S3"
+		(shape input)
+		(at 165.1 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0293d27b-dbbc-4f39-b0ca-e58d0de58134")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.2097 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_I2C2_SDA"
+		(shape input)
+		(at 191.77 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "084086ab-8fee-4efc-bd1b-c1ac04e359fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 211.1442 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_FAN2_PWM"
+		(shape input)
+		(at 251.46 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "17b174d8-2679-4b69-b7f3-8af1d7a84903")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.2618 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EC_PM_I2C_SDA"
+		(shape input)
+		(at 191.77 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "39f4cac0-d70b-49de-957d-e3dd2e3f4df9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.4313 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EC_PM_I2C_ALT"
+		(shape input)
+		(at 191.77 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "41412433-8f46-48f0-965f-869733e23763")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.9475 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_I2C2_SCL"
+		(shape input)
+		(at 191.77 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5db2f6dd-9523-4161-8961-3c604965bd44")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 211.0837 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_SIO_UART_TX"
+		(shape input)
+		(at 165.1 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6900baef-4461-446e-b0b7-3359a9830422")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.1449 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_FAN2_TAC"
+		(shape input)
+		(at 251.46 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6ea9d4de-7f29-4c75-afdf-cf9b3ca14988")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.2618 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_RSTBTN"
+		(shape input)
+		(at 165.1 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71c9f8cb-a6a1-450f-9e9d-bda42ee19d88")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 150.1406 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_FAN1_PWM"
+		(shape input)
+		(at 251.46 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "73dc7431-112c-4f10-986f-82078da721fb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.2618 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_FAN1_TAC"
+		(shape input)
+		(at 251.46 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "75470e5e-3e0e-4e6f-bb2e-c3345119f5b4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.2618 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EC_PM_I2C_SCL"
+		(shape input)
+		(at 191.77 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9793dbaa-2df7-4018-bf1c-cbed007f7d8e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 204.3708 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_SIO_UART_RX"
+		(shape input)
+		(at 165.1 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f7835c9-6fd6-4613-b59d-f78a6c519514")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.8425 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_SIO_SLS_S0"
+		(shape input)
+		(at 165.1 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a36d2f57-14d7-467e-80f0-d81eee00568b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.2097 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_TSENSE"
+		(shape input)
+		(at 251.46 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b58e80fc-2c23-4e29-90ba-9ab9a20a88d8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 266.4193 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+)

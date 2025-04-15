@@ -7833,7 +7833,7 @@
 		)
 		(uuid "ffbcda2a-94aa-4b3c-92b4-628a776560ae")
 	)
-	(text "2025-03-23 - 2025-04-14"
+	(text "2025-03-23 - 2025-04-15"
 		(exclude_from_sim no)
 		(at 517.906 403.352 0)
 		(effects
@@ -13006,6 +13006,44 @@
 		)
 	)
 	(sheet
+		(at 527.05 361.95)
+		(size 12.7 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4fc82f61-01b1-4681-aa2e-f64d0a637a2d")
+		(property "Sheetname" "SMEC"
+			(at 527.05 361.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mct2_lite_smec.kicad_sch"
+			(at 527.05 375.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mct2_lite"
+				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 546.1 361.95)
 		(size 12.7 12.7)
 		(fields_autoplaced yes)
@@ -13044,8 +13082,8 @@
 		)
 	)
 	(sheet
-		(at 564.515 361.95)
-		(size 13.335 12.7)
+		(at 565.15 361.95)
+		(size 12.7 12.7)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -13056,7 +13094,7 @@
 		)
 		(uuid "eb8a2ebe-1a22-48d5-8d40-fed94729eb9b")
 		(property "Sheetname" "Power"
-			(at 564.515 361.2384 0)
+			(at 565.15 361.2384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13065,7 +13103,7 @@
 			)
 		)
 		(property "Sheetfile" "mct2_lite_power.kicad_sch"
-			(at 564.515 375.2346 0)
+			(at 565.15 375.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
