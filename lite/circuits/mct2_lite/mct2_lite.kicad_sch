@@ -6855,6 +6855,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 242.57) (xy 214.63 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70b203ed-5bb7-417d-8927-b3e16145caac")
+	)
+	(wire
+		(pts
 			(xy 130.81 156.21) (xy 133.35 156.21)
 		)
 		(stroke
@@ -7833,7 +7843,7 @@
 		)
 		(uuid "ffbcda2a-94aa-4b3c-92b4-628a776560ae")
 	)
-	(text "2025-03-23 - 2025-04-15"
+	(text "2025-03-23 - 2025-04-23"
 		(exclude_from_sim no)
 		(at 517.906 403.352 0)
 		(effects
@@ -11467,6 +11477,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SOM_SPI_BIOS_SEL"
+		(shape input)
+		(at 217.17 242.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f8be6656-ff43-4384-9e37-287e7189666b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 237.9351 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
