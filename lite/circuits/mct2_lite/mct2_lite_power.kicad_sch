@@ -3820,6 +3820,656 @@
 				)
 			)
 		)
+		(symbol "mediacow:BQ25723"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BQ25723"
+				(at -40.64 22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_DFN_QFN:Texas_RSN_WQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm_ThermalVias"
+				(at -40.64 22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at -40.64 22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at -40.64 22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BQ25723_0_0"
+				(pin unspecified line
+					(at -40.64 10.16 0)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -22.86 180)
+					(length 2.54)
+					(name "PSYS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -40.64 -22.86 0)
+					(length 2.54)
+					(name "~{PROCHOT}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -25.4 -27.94 90)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -22.86 -27.94 90)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 27.94 -27.94 90)
+					(length 2.54)
+					(name "CMPIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 20.32 -27.94 90)
+					(length 2.54)
+					(name "CMPOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -40.64 -12.7 0)
+					(length 2.54)
+					(name "COMP1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -40.64 -17.78 0)
+					(length 2.54)
+					(name "COMP2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -2.54 180)
+					(length 2.54)
+					(name "CELL_BATPRESZ"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 12.7 180)
+					(length 2.54)
+					(name "SRN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -40.64 20.32 0)
+					(length 2.54)
+					(name "ACN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 15.24 180)
+					(length 2.54)
+					(name "SRP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 20.32 180)
+					(length 2.54)
+					(name "~{BATDRV}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 22.86 180)
+					(length 2.54)
+					(name "VSYS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 11.43 27.94 270)
+					(length 2.54)
+					(name "SW2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 25.4 27.94 270)
+					(length 2.54)
+					(name "HIDRV2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 27.94 270)
+					(length 2.54)
+					(name "BTST2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 16.51 27.94 270)
+					(length 2.54)
+					(name "LODRV2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 2.54 180)
+					(length 2.54)
+					(name "PGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 7.62 180)
+					(length 2.54)
+					(name "REGN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -25.4 27.94 270)
+					(length 2.54)
+					(name "LODRV1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -40.64 17.78 0)
+					(length 2.54)
+					(name "ACP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 27.94 270)
+					(length 2.54)
+					(name "BTST1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 27.94 270)
+					(length 2.54)
+					(name "HIDRV1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -10.16 27.94 270)
+					(length 2.54)
+					(name "SW1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -27.94 90)
+					(length 2.54)
+					(name "CHRG_OK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 -27.94 90)
+					(length 2.54)
+					(name "OTG/VAP/FRS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -10.16 180)
+					(length 2.54)
+					(name "ILIM_HIZ"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -40.64 -2.54 0)
+					(length 2.54)
+					(name "VDDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -17.78 180)
+					(length 2.54)
+					(name "IADPT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -20.32 180)
+					(length 2.54)
+					(name "IBAT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "BQ25723_0_1"
+				(rectangle
+					(start -38.1 25.4)
+					(end 38.1 -25.4)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -26.67 25.4)
+					(end -26.67 25.4)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "mediacow:BSZ086P03NS3E"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -11971,7 +12621,7 @@
 		)
 		(uuid "677475e3-1454-46ba-aa8f-ae23b3c6c678")
 	)
-	(text "2025-03-23 - 2025-04-15"
+	(text "2025-03-23 - 2025-04-24"
 		(exclude_from_sim no)
 		(at 517.652 403.352 0)
 		(effects
@@ -11980,16 +12630,6 @@
 			)
 		)
 		(uuid "69beebc8-38e7-4898-9345-c81b2cc706ac")
-	)
-	(text "To-Do: BQ25723 symbol"
-		(exclude_from_sim no)
-		(at 223.774 153.924 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "89dc20a9-a19f-4db6-aaf9-4721af52adbd")
 	)
 	(text "MediaCow Touch 2 Lite \"Curitiba\" - CTCL 2021-2025"
 		(exclude_from_sim no)
@@ -16712,6 +17352,165 @@
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
 					(reference "J?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "mediacow:BQ25723")
+		(at 181.61 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "24d94520-39a0-454e-abeb-ded1af7cea57")
+		(property "Reference" "U?"
+			(at 143.002 124.714 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BQ25723"
+			(at 211.328 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DFN_QFN:Texas_RSN_WQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm_ThermalVias"
+			(at 140.97 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.97 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "8479b7c1-0d74-4df6-baab-2ab90e1501e0")
+		)
+		(pin "32"
+			(uuid "fcc8b99e-793d-45a6-937f-4b90caf5334a")
+		)
+		(pin "14"
+			(uuid "5370ddfe-96f4-4f02-8163-a6cf598a6fb6")
+		)
+		(pin "23"
+			(uuid "d57cbb07-4e50-4df5-aecd-2b1c300dcd4c")
+		)
+		(pin "26"
+			(uuid "0aa1fa02-f2b5-4071-9a7f-a3dfdbd55a85")
+		)
+		(pin "27"
+			(uuid "013ce2be-f998-4a13-b7eb-e175eb5f1da6")
+		)
+		(pin "15"
+			(uuid "cda56eff-a220-431a-94ea-05017b030328")
+		)
+		(pin "13"
+			(uuid "c595f3d7-faef-4ca4-aba2-05b245d50b65")
+		)
+		(pin "6"
+			(uuid "dea0efd8-60a6-4096-8876-033d35ebb527")
+		)
+		(pin "31"
+			(uuid "9b7fb746-56bb-4931-ac00-f8e0ace2d888")
+		)
+		(pin "17"
+			(uuid "62e01022-51b6-4a31-85eb-d7c1d63224ef")
+		)
+		(pin "24"
+			(uuid "dc9e8ba9-11ed-4497-83d7-d91352fc78b3")
+		)
+		(pin "8"
+			(uuid "72c8a931-3f69-4771-85c3-c51e89e57e0f")
+		)
+		(pin "11"
+			(uuid "6371ac4f-61ba-4cad-bb9e-6d9da120d365")
+		)
+		(pin "1"
+			(uuid "a2139f7b-8b94-4819-a9f0-a5a9117b342b")
+		)
+		(pin "19"
+			(uuid "18733210-35f0-4727-8a8f-455b6fd28740")
+		)
+		(pin "5"
+			(uuid "55dd8b30-dcb2-4487-a513-3f39ce38c89a")
+		)
+		(pin "20"
+			(uuid "2035edc0-bd19-4f75-93b0-b9a93cc7b10a")
+		)
+		(pin "18"
+			(uuid "cf21da79-96cb-4761-bc6c-c8169d963140")
+		)
+		(pin "4"
+			(uuid "817ef61b-009d-4158-bb40-1cd9aff0b1f7")
+		)
+		(pin "12"
+			(uuid "0cd99d0c-c7dd-4f08-a43b-3c6f0d7779f3")
+		)
+		(pin "3"
+			(uuid "b72c4dbe-4961-46ee-8912-449ae4155bba")
+		)
+		(pin "28"
+			(uuid "2eabebf8-f864-4fe8-bb72-cd3cd223177b")
+		)
+		(pin "22"
+			(uuid "db65b91f-313c-4e4a-b67f-a515d22bb15b")
+		)
+		(pin "30"
+			(uuid "d4dc506f-a67f-4e26-88ac-1397b50fa220")
+		)
+		(pin "2"
+			(uuid "ee81d10e-c2eb-4678-b17a-f80587e5808f")
+		)
+		(pin "29"
+			(uuid "7df97bea-89ba-40fe-b8d1-f1f01530f1b9")
+		)
+		(pin "21"
+			(uuid "389558a3-282f-4897-a7c7-3360fb320d98")
+		)
+		(pin "10"
+			(uuid "136e965e-3eaa-4fc4-8493-dfdfd26447a5")
+		)
+		(pin "16"
+			(uuid "719bc4fc-d141-488a-9c71-aa57ced761c3")
+		)
+		(pin "7"
+			(uuid "6635eea1-de86-4974-83f0-137fc2008490")
+		)
+		(pin "25"
+			(uuid "573594c2-1047-4911-b146-b84def774f77")
+		)
+		(instances
+			(project ""
+				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
+					(reference "U?")
 					(unit 1)
 				)
 			)
