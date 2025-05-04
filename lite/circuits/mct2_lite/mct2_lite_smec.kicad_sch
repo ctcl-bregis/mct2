@@ -15,9 +15,9 @@
 		)
 		(uuid "1a1c114f-5553-4066-8559-de841e6923dd")
 	)
-	(text "MediaCow Touch 2 Lite - CTCL 2021-2025"
+	(text "MediaCow Touch 2 Lite \"Curitiba\" - CTCL 2021-2025"
 		(exclude_from_sim no)
-		(at 199.39 179.578 0)
+		(at 204.47 180.086 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25,7 +25,7 @@
 		)
 		(uuid "92f8133f-8557-440e-ae39-f83fcebb3a4d")
 	)
-	(text "2025-04-15 - 2025-04-15"
+	(text "2025-04-15 - 2025-04-29"
 		(exclude_from_sim no)
 		(at 220.98 193.294 0)
 		(effects
