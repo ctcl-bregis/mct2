@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "caf0e9b0-a44c-4a4e-b706-dd9d72690bf9")
 	(paper "A2")
+	(title_block
+		(title "MediaCow Touch 2 Lite \"Curitiba\"")
+		(date "2025-03-23 - 2025-05-09")
+		(company "CTCL 2021-2025")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint_Alt"
 			(pin_numbers hide)
@@ -8176,36 +8181,6 @@
 		)
 		(uuid "ffbcda2a-94aa-4b3c-92b4-628a776560ae")
 	)
-	(text "2025-03-23 - 2025-04-29"
-		(exclude_from_sim no)
-		(at 517.906 403.352 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "3c0eb145-e581-44ad-88f9-ed98ffb9dc0e")
-	)
-	(text "MediaCow Touch 2 Lite \"Curitiba\" - CTCL 2021-2025"
-		(exclude_from_sim no)
-		(at 501.904 390.144 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "520d64a9-cab2-48ba-aedb-fae70073c4c5")
-	)
-	(text "MediaCow Touch 2 Lite - Root"
-		(exclude_from_sim no)
-		(at 498.094 400.05 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "fe034b2a-2a09-4055-8ac5-88636876acee")
-	)
 	(global_label "HDMI_TX1_N"
 		(shape input)
 		(at 130.81 222.25 180)
@@ -12681,7 +12656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module_LattePanda:LattePanda_Module_H8.0mm_Horizontal"
+		(property "Footprint" "LattePanda Mu:LattePanda_Module_H4.0mm_Horizontal"
 			(at 173.99 166.37 0)
 			(effects
 				(font
@@ -13724,7 +13699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm"
 			(at 295.91 240.03 0)
 			(effects
 				(font
@@ -13943,7 +13918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
 			(at 295.91 220.98 0)
 			(effects
 				(font
