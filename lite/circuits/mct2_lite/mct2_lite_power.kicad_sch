@@ -6,7 +6,7 @@
 	(paper "A1")
 	(title_block
 		(title "MediaCow Touch 2 \"Curitiba\" - Power")
-		(date "2025-03-23 - 2025-05-24")
+		(date "2025-03-23 - 2025-05-29")
 		(company "CTCL 2021-2025")
 	)
 	(lib_symbols
@@ -9425,7 +9425,7 @@
 		(uuid "0df4a1aa-c032-4ff7-8f3c-4c75acb4162d")
 	)
 	(junction
-		(at 506.73 50.8)
+		(at 439.42 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e4d6920-7b1a-4c90-8ef2-c1c7d9237a5f")
@@ -9483,12 +9483,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ce9fa81-9029-41e5-a414-c5dca810c4cb")
-	)
-	(junction
-		(at 613.41 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d056fa7-fb31-4b62-ae68-ede28a8b50d1")
 	)
 	(junction
 		(at 593.09 326.39)
@@ -9737,7 +9731,7 @@
 		(uuid "518bf9bf-9c63-4763-8626-e7a6b8f76024")
 	)
 	(junction
-		(at 528.32 50.8)
+		(at 461.01 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "529d261c-dd7e-44f5-b1c7-d2d2979d8673")
@@ -9761,7 +9755,7 @@
 		(uuid "57b9f7b4-b8c7-44a6-b9a9-1f431561bd50")
 	)
 	(junction
-		(at 486.41 38.1)
+		(at 419.1 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57fddfee-91b9-4ba0-b451-9a3a2169441f")
@@ -9777,6 +9771,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b184184-bd27-4643-b4f7-6dfca8769124")
+	)
+	(junction
+		(at 613.41 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5bb9401f-5b05-4ae3-b1fa-32a95917c6fb")
 	)
 	(junction
 		(at 711.2 223.52)
@@ -9923,7 +9923,7 @@
 		(uuid "73aa4f53-963a-444a-9db5-a6b11ab1b3e3")
 	)
 	(junction
-		(at 551.18 40.64)
+		(at 483.87 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "744d37f2-6c07-4098-b61a-4416c009022a")
@@ -10187,7 +10187,7 @@
 		(uuid "9fe3159b-7c6c-4f2d-8e35-36e55e9537ce")
 	)
 	(junction
-		(at 481.33 38.1)
+		(at 414.02 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a04db4b0-d469-419d-b144-5f3a9dc15263")
@@ -10433,12 +10433,6 @@
 		(uuid "d0129732-9b83-4588-929e-a969c4f987a5")
 	)
 	(junction
-		(at 613.41 199.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0c720fc-81e0-4fce-a1d8-3d4793c4143e")
-	)
-	(junction
 		(at 478.79 332.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10553,6 +10547,12 @@
 		(uuid "de39e9c1-5bbe-4055-a82e-139d086530f9")
 	)
 	(junction
+		(at 613.41 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dff7a702-f9af-44cc-950f-60d4acb7d044")
+	)
+	(junction
 		(at 565.15 411.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10613,7 +10613,7 @@
 		(uuid "e8994b93-79d6-4002-b1b5-cd5bf6e0ae0d")
 	)
 	(junction
-		(at 486.41 43.18)
+		(at 419.1 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eedfd8db-73ae-413c-aef0-baef6c7befff")
@@ -10946,7 +10946,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 45.72) (xy 534.67 43.18)
+			(xy 467.36 149.86) (xy 467.36 147.32)
 		)
 		(stroke
 			(width 0)
@@ -11296,7 +11296,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 35.56) (xy 534.67 38.1)
+			(xy 467.36 139.7) (xy 467.36 142.24)
 		)
 		(stroke
 			(width 0)
@@ -11346,7 +11346,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 38.1) (xy 528.32 38.1)
+			(xy 467.36 142.24) (xy 461.01 142.24)
 		)
 		(stroke
 			(width 0)
@@ -11366,7 +11366,7 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 50.8) (xy 528.32 55.88)
+			(xy 461.01 154.94) (xy 461.01 160.02)
 		)
 		(stroke
 			(width 0)
@@ -11696,7 +11696,7 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 40.64) (xy 537.21 40.64)
+			(xy 461.01 144.78) (xy 469.9 144.78)
 		)
 		(stroke
 			(width 0)
@@ -12086,7 +12086,7 @@
 	)
 	(wire
 		(pts
-			(xy 500.38 50.8) (xy 506.73 50.8)
+			(xy 433.07 154.94) (xy 439.42 154.94)
 		)
 		(stroke
 			(width 0)
@@ -12113,6 +12113,16 @@
 			(type default)
 		)
 		(uuid "2f2e02e7-dc31-4c0c-bb8a-b47ab0d5fe41")
+	)
+	(wire
+		(pts
+			(xy 613.41 191.77) (xy 613.41 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f45ef83-aea3-47a1-aca7-455342d727ab")
 	)
 	(wire
 		(pts
@@ -12236,7 +12246,7 @@
 	)
 	(wire
 		(pts
-			(xy 551.18 40.64) (xy 547.37 40.64)
+			(xy 483.87 144.78) (xy 480.06 144.78)
 		)
 		(stroke
 			(width 0)
@@ -12756,7 +12766,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 45.72) (xy 537.21 45.72)
+			(xy 467.36 149.86) (xy 469.9 149.86)
 		)
 		(stroke
 			(width 0)
@@ -12823,16 +12833,6 @@
 			(type default)
 		)
 		(uuid "4693cc5f-4ba9-4b09-a534-cf3a69450cdb")
-	)
-	(wire
-		(pts
-			(xy 613.41 191.77) (xy 613.41 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46afc595-2bcf-4675-927d-527cfb8edc29")
 	)
 	(wire
 		(pts
@@ -13046,7 +13046,7 @@
 	)
 	(wire
 		(pts
-			(xy 481.33 38.1) (xy 486.41 38.1)
+			(xy 414.02 142.24) (xy 419.1 142.24)
 		)
 		(stroke
 			(width 0)
@@ -13586,6 +13586,16 @@
 	)
 	(wire
 		(pts
+			(xy 613.41 196.85) (xy 613.41 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "651152db-7c8e-4a91-8d99-385e8b349ddc")
+	)
+	(wire
+		(pts
 			(xy 586.74 313.69) (xy 593.09 313.69)
 		)
 		(stroke
@@ -13626,7 +13636,7 @@
 	)
 	(wire
 		(pts
-			(xy 486.41 38.1) (xy 510.54 38.1)
+			(xy 419.1 142.24) (xy 443.23 142.24)
 		)
 		(stroke
 			(width 0)
@@ -13996,7 +14006,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 43.18) (xy 528.32 43.18)
+			(xy 467.36 147.32) (xy 461.01 147.32)
 		)
 		(stroke
 			(width 0)
@@ -14006,7 +14016,7 @@
 	)
 	(wire
 		(pts
-			(xy 481.33 43.18) (xy 486.41 43.18)
+			(xy 414.02 147.32) (xy 419.1 147.32)
 		)
 		(stroke
 			(width 0)
@@ -14063,16 +14073,6 @@
 			(type default)
 		)
 		(uuid "7e273a68-8d3c-4fcc-b14a-b6caf38ef4d2")
-	)
-	(wire
-		(pts
-			(xy 609.6 199.39) (xy 613.41 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e27b5f8-5d6c-4f9e-be34-852d69869858")
 	)
 	(wire
 		(pts
@@ -14276,7 +14276,7 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 48.26) (xy 528.32 50.8)
+			(xy 461.01 152.4) (xy 461.01 154.94)
 		)
 		(stroke
 			(width 0)
@@ -15026,7 +15026,7 @@
 	)
 	(wire
 		(pts
-			(xy 473.71 38.1) (xy 481.33 38.1)
+			(xy 406.4 142.24) (xy 414.02 142.24)
 		)
 		(stroke
 			(width 0)
@@ -15346,16 +15346,6 @@
 	)
 	(wire
 		(pts
-			(xy 609.6 194.31) (xy 613.41 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad48c740-ce51-48aa-a0b3-3155c517b789")
-	)
-	(wire
-		(pts
 			(xy 636.27 411.48) (xy 643.89 411.48)
 		)
 		(stroke
@@ -15396,7 +15386,7 @@
 	)
 	(wire
 		(pts
-			(xy 554.99 40.64) (xy 551.18 40.64)
+			(xy 487.68 144.78) (xy 483.87 144.78)
 		)
 		(stroke
 			(width 0)
@@ -15676,7 +15666,7 @@
 	)
 	(wire
 		(pts
-			(xy 506.73 50.8) (xy 510.54 50.8)
+			(xy 439.42 154.94) (xy 443.23 154.94)
 		)
 		(stroke
 			(width 0)
@@ -17036,7 +17026,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 35.56) (xy 537.21 35.56)
+			(xy 467.36 139.7) (xy 469.9 139.7)
 		)
 		(stroke
 			(width 0)
@@ -17576,16 +17566,6 @@
 	)
 	(wire
 		(pts
-			(xy 613.41 196.85) (xy 613.41 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f99e95dc-544e-4c21-9914-cfa72c7225cc")
-	)
-	(wire
-		(pts
 			(xy 567.69 125.73) (xy 570.23 125.73)
 		)
 		(stroke
@@ -17731,7 +17711,7 @@
 		(uuid 938c17a7-a0aa-405a-9d1c-4692ca9fcfbe)
 	)
 	(rectangle
-		(start 508 107.95)
+		(start 508 109.22)
 		(end 825.5 368.3)
 		(stroke
 			(width 0)
@@ -17766,6 +17746,18 @@
 		)
 		(uuid f1f4ae44-b4bc-4b34-afd6-4229708d4add)
 	)
+	(rectangle
+		(start 393.7 109.22)
+		(end 500.38 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f8c5f971-6c75-4f7f-b6dc-c43e5ff0f3a9)
+	)
 	(text "Optional - TCP Config Flash"
 		(exclude_from_sim no)
 		(at 435.356 181.61 0)
@@ -17775,6 +17767,16 @@
 			)
 		)
 		(uuid "18c2025e-f28e-4203-b3de-ed2aed1487f8")
+	)
+	(text "TCP Status LED\n"
+		(exclude_from_sim no)
+		(at 415.29 106.426 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "1c1024f7-6614-4f6d-90a6-79baef6850c6")
 	)
 	(text "Battery Charge Controller"
 		(exclude_from_sim no)
@@ -17818,7 +17820,7 @@
 	)
 	(text "TCP Controller\n"
 		(exclude_from_sim no)
-		(at 528.574 104.902 0)
+		(at 528.574 105.918 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -18134,7 +18136,7 @@
 	)
 	(global_label "LED_VBM"
 		(shape input)
-		(at 510.54 48.26 180)
+		(at 443.23 152.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18144,7 +18146,7 @@
 		)
 		(uuid "1c3bb741-6e5e-421b-a813-b3b3a906b0f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 499.3301 48.26 0)
+			(at 432.0201 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18772,7 +18774,7 @@
 	)
 	(global_label "EC_PM_I2C_SCL"
 		(shape input)
-		(at 510.54 45.72 180)
+		(at 443.23 149.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18782,7 +18784,7 @@
 		)
 		(uuid "49b3d404-f883-4d32-a88a-973a373eb876")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 497.9392 45.72 0)
+			(at 430.6292 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19102,7 +19104,7 @@
 	)
 	(global_label "LED_3V3"
 		(shape input)
-		(at 473.71 38.1 180)
+		(at 406.4 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19112,7 +19114,7 @@
 		)
 		(uuid "5e52580a-fb15-4ca3-8aa6-615a16176183")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 462.8025 38.1 0)
+			(at 395.4925 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20004,7 +20006,7 @@
 	)
 	(global_label "LED_EN"
 		(shape input)
-		(at 500.38 50.8 180)
+		(at 433.07 154.94 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20014,7 +20016,7 @@
 		)
 		(uuid "a24dc509-4767-4d70-a1b4-ec4c7bb14ce7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 490.5006 50.8 0)
+			(at 423.1906 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20532,7 +20534,7 @@
 	)
 	(global_label "LED_3V3"
 		(shape input)
-		(at 554.99 40.64 0)
+		(at 487.68 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20542,7 +20544,7 @@
 		)
 		(uuid "de744bbb-5721-4799-8dba-530f82c3448d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 565.8975 40.64 0)
+			(at 498.5875 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20840,7 +20842,7 @@
 	)
 	(global_label "EC_PM_I2C_SDA"
 		(shape input)
-		(at 510.54 43.18 180)
+		(at 443.23 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20850,7 +20852,7 @@
 		)
 		(uuid "fd4d6c49-e2f1-4c38-8a5f-a1e416584db3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 497.8787 43.18 0)
+			(at 430.5687 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20913,7 +20915,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "002faef5-15cf-4304-9f17-dfa6145cce5e")
-		(property "Reference" "C?"
+		(property "Reference" "C138"
 			(at 795.274 415.036 0)
 			(effects
 				(font
@@ -20967,7 +20969,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C138")
 					(unit 1)
 				)
 			)
@@ -20982,7 +20984,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0100ec07-51f0-469d-ade2-d5741ef74f40")
-		(property "Reference" "R?"
+		(property "Reference" "R31"
 			(at 563.372 345.694 0)
 			(effects
 				(font
@@ -21036,7 +21038,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -21118,7 +21120,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03348206-641e-4c2b-b1c2-95be6ada030c")
-		(property "Reference" "R?"
+		(property "Reference" "R47"
 			(at 609.092 415.036 0)
 			(effects
 				(font
@@ -21172,7 +21174,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -21187,7 +21189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04001957-0958-4fae-9019-36112f063252")
-		(property "Reference" "C?"
+		(property "Reference" "C125"
 			(at 779.018 288.544 90)
 			(effects
 				(font
@@ -21239,7 +21241,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C125")
 					(unit 1)
 				)
 			)
@@ -21254,7 +21256,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0443e85f-337d-43da-82d3-41621e730627")
-		(property "Reference" "C?"
+		(property "Reference" "C112"
 			(at 730.504 415.036 0)
 			(effects
 				(font
@@ -21308,7 +21310,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C112")
 					(unit 1)
 				)
 			)
@@ -21323,7 +21325,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0462dd18-85d3-4634-ae15-639117a1de79")
-		(property "Reference" "R?"
+		(property "Reference" "R30"
 			(at 563.372 327.914 0)
 			(effects
 				(font
@@ -21377,7 +21379,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -21458,7 +21460,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "078b1a37-9691-43b9-a9bc-f83be1059d5f")
-		(property "Reference" "C?"
+		(property "Reference" "C135"
 			(at 786.638 301.244 90)
 			(effects
 				(font
@@ -21510,7 +21512,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C135")
 					(unit 1)
 				)
 			)
@@ -21591,7 +21593,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "08efbb75-da9b-4354-94fd-2563810405c5")
-		(property "Reference" "U?"
+		(property "Reference" "U17"
 			(at 750.824 260.604 0)
 			(effects
 				(font
@@ -21667,7 +21669,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U17")
 					(unit 1)
 				)
 			)
@@ -21682,7 +21684,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "099a3fcc-bc5a-4aa7-bbcd-fe708b3c76af")
-		(property "Reference" "C?"
+		(property "Reference" "C57"
 			(at 548.64 512.826 0)
 			(effects
 				(font
@@ -21734,7 +21736,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -21749,7 +21751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a80182a-7c5a-45dc-afe0-4ea8813b512c")
-		(property "Reference" "L?"
+		(property "Reference" "L5"
 			(at 554.99 515.366 90)
 			(effects
 				(font
@@ -21801,7 +21803,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "L?")
+					(reference "L5")
 					(unit 1)
 				)
 			)
@@ -21816,7 +21818,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ce5536c-76e9-490e-adda-81ef05f692c5")
-		(property "Reference" "C?"
+		(property "Reference" "C71"
 			(at 582.93 517.906 0)
 			(effects
 				(font
@@ -21868,7 +21870,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C71")
 					(unit 1)
 				)
 			)
@@ -21883,7 +21885,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d907f54-b407-466e-9053-04993670fca8")
-		(property "Reference" "C?"
+		(property "Reference" "C64"
 			(at 565.404 446.786 0)
 			(effects
 				(font
@@ -21937,7 +21939,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C64")
 					(unit 1)
 				)
 			)
@@ -21952,7 +21954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12c8abad-a9b4-478c-9606-f78a2c3995d0")
-		(property "Reference" "U?"
+		(property "Reference" "U6"
 			(at 449.326 397.51 0)
 			(effects
 				(font
@@ -22043,7 +22045,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -22059,7 +22061,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "130a9f8c-d9b9-4dc3-98bb-7f47af840b3a")
-		(property "Reference" "Q?"
+		(property "Reference" "Q13"
 			(at 762.762 416.306 0)
 			(effects
 				(font
@@ -22129,7 +22131,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q13")
 					(unit 1)
 				)
 			)
@@ -22144,7 +22146,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "130faa12-9abb-4056-a67e-053109d02c4f")
-		(property "Reference" "C?"
+		(property "Reference" "C106"
 			(at 715.01 210.566 0)
 			(effects
 				(font
@@ -22198,7 +22200,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C106")
 					(unit 1)
 				)
 			)
@@ -22213,7 +22215,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14378099-1326-47fc-a570-f16f49095474")
-		(property "Reference" "U?"
+		(property "Reference" "U9"
 			(at 581.914 284.226 0)
 			(effects
 				(font
@@ -22274,7 +22276,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -22289,7 +22291,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "152e8f52-b5e7-4a20-bbbc-d94a3577c639")
-		(property "Reference" "C?"
+		(property "Reference" "C107"
 			(at 715.01 322.326 0)
 			(effects
 				(font
@@ -22343,7 +22345,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C107")
 					(unit 1)
 				)
 			)
@@ -22358,7 +22360,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "15360ed8-0098-4392-b68d-2bf91aaaacd8")
-		(property "Reference" "C?"
+		(property "Reference" "C86"
 			(at 609.854 454.406 0)
 			(effects
 				(font
@@ -22410,7 +22412,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C86")
 					(unit 1)
 				)
 			)
@@ -22425,7 +22427,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16171740-a048-4b96-be57-549519ce3946")
-		(property "Reference" "R?"
+		(property "Reference" "R10"
 			(at 433.324 397.764 0)
 			(effects
 				(font
@@ -22477,7 +22479,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -22492,7 +22494,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16b14f18-b55c-4b14-aa95-6a935b9c5f53")
-		(property "Reference" "C?"
+		(property "Reference" "C67"
 			(at 578.104 415.036 0)
 			(effects
 				(font
@@ -22546,7 +22548,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -22692,7 +22694,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17c04602-c4e0-46c1-8fce-6f432a752d6b")
-		(property "Reference" "R?"
+		(property "Reference" "R61"
 			(at 628.904 504.952 90)
 			(effects
 				(font
@@ -22744,7 +22746,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -22824,7 +22826,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1801eca4-f5cd-41a2-9104-800e10a0dfe4")
-		(property "Reference" "R?"
+		(property "Reference" "R37"
 			(at 574.548 293.624 90)
 			(effects
 				(font
@@ -22876,7 +22878,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -22891,7 +22893,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18051162-c2ee-49d2-8a0c-b9d2e36ad050")
-		(property "Reference" "C?"
+		(property "Reference" "C77"
 			(at 593.344 308.356 0)
 			(effects
 				(font
@@ -22945,7 +22947,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -22960,7 +22962,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "187c6376-42b7-489a-a845-218fda8b615f")
-		(property "Reference" "C?"
+		(property "Reference" "C99"
 			(at 704.85 227.076 0)
 			(effects
 				(font
@@ -23014,7 +23016,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C99")
 					(unit 1)
 				)
 			)
@@ -23094,7 +23096,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "198e8f85-041c-45f0-b8c7-42e60fbcb026")
-		(property "Reference" "C?"
+		(property "Reference" "C83"
 			(at 603.504 472.44 90)
 			(effects
 				(font
@@ -23146,7 +23148,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C83")
 					(unit 1)
 				)
 			)
@@ -23161,7 +23163,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a48e3e0-3f0e-4de5-9b5b-8232f1dded1a")
-		(property "Reference" "R?"
+		(property "Reference" "R22"
 			(at 474.726 192.024 0)
 			(effects
 				(font
@@ -23215,7 +23217,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -23230,7 +23232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a712ba0-0829-4540-979c-2376782e7272")
-		(property "Reference" "R?"
+		(property "Reference" "R55"
 			(at 624.332 321.564 0)
 			(effects
 				(font
@@ -23284,7 +23286,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -23364,7 +23366,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1cd2642c-1f8d-4be6-a9fb-a2d260a1a579")
-		(property "Reference" "R?"
+		(property "Reference" "R56"
 			(at 628.396 248.666 0)
 			(effects
 				(font
@@ -23418,7 +23420,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -23433,7 +23435,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d2be93f-a7ac-45ce-b7de-7c9cea047214")
-		(property "Reference" "C?"
+		(property "Reference" "C128"
 			(at 779.018 311.404 90)
 			(effects
 				(font
@@ -23485,7 +23487,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C128")
 					(unit 1)
 				)
 			)
@@ -23565,7 +23567,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f051339-0563-4eaf-96af-3108040d2c32")
-		(property "Reference" "C?"
+		(property "Reference" "C47"
 			(at 473.71 263.906 0)
 			(effects
 				(font
@@ -23619,7 +23621,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -23634,7 +23636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "20d6c125-c818-4074-a38c-bf1b88629891")
-		(property "Reference" "C?"
+		(property "Reference" "C90"
 			(at 620.014 308.356 0)
 			(effects
 				(font
@@ -23688,7 +23690,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C90")
 					(unit 1)
 				)
 			)
@@ -23768,7 +23770,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22c89aac-790a-4418-b139-9dd175a5e537")
-		(property "Reference" "C?"
+		(property "Reference" "C136"
 			(at 786.638 308.864 90)
 			(effects
 				(font
@@ -23820,7 +23822,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C136")
 					(unit 1)
 				)
 			)
@@ -23835,7 +23837,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23ae8a1b-d771-4fce-a218-1bcd87ebe997")
-		(property "Reference" "J?"
+		(property "Reference" "J5"
 			(at 810.26 234.95 0)
 			(effects
 				(font
@@ -23956,7 +23958,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "J?")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -23971,7 +23973,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "243d2d52-4f9e-481c-9077-c31e9ba73f0e")
-		(property "Reference" "C?"
+		(property "Reference" "C79"
 			(at 602.742 482.854 90)
 			(effects
 				(font
@@ -24023,7 +24025,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -24038,7 +24040,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24d94520-39a0-454e-abeb-ded1af7cea57")
-		(property "Reference" "U?"
+		(property "Reference" "U13"
 			(at 623.062 434.594 0)
 			(effects
 				(font
@@ -24182,7 +24184,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -24198,7 +24200,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25885621-6c05-4033-aed4-3f296a236433")
-		(property "Reference" "Q?"
+		(property "Reference" "Q11"
 			(at 683.006 426.974 90)
 			(effects
 				(font
@@ -24255,7 +24257,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q11")
 					(unit 1)
 				)
 			)
@@ -24270,7 +24272,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26f3526d-5f16-44a2-a5bd-4ade35e762d6")
-		(property "Reference" "U?"
+		(property "Reference" "U15"
 			(at 737.616 356.87 0)
 			(effects
 				(font
@@ -24381,7 +24383,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U15")
 					(unit 1)
 				)
 			)
@@ -24389,15 +24391,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 506.73 53.34 0)
+		(at 439.42 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "27b88ee5-0726-47e8-989a-0186703baf09")
-		(property "Reference" "R?"
-			(at 507.746 52.324 0)
+		(property "Reference" "R24"
+			(at 440.436 156.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24406,7 +24408,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 507.746 54.356 0)
+			(at 440.436 158.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24415,7 +24417,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 506.73 53.34 0)
+			(at 439.42 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24424,7 +24426,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 506.73 53.34 0)
+			(at 439.42 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24433,7 +24435,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 506.73 53.34 0)
+			(at 439.42 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24450,7 +24452,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -24465,7 +24467,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29998baa-9d7b-41ae-ac64-b143b23391b5")
-		(property "Reference" "C?"
+		(property "Reference" "C105"
 			(at 712.47 487.172 0)
 			(effects
 				(font
@@ -24519,7 +24521,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C105")
 					(unit 1)
 				)
 			)
@@ -24534,7 +24536,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29ea2bbf-48bb-4f17-b878-7ca6a199d2fd")
-		(property "Reference" "C?"
+		(property "Reference" "C108"
 			(at 715.264 415.036 0)
 			(effects
 				(font
@@ -24588,7 +24590,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C108")
 					(unit 1)
 				)
 			)
@@ -24668,7 +24670,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c51b0e5-96e0-451a-a763-a5de028467bf")
-		(property "Reference" "R?"
+		(property "Reference" "R27"
 			(at 555.752 345.694 0)
 			(effects
 				(font
@@ -24722,7 +24724,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -24802,7 +24804,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f03f7df-de22-49ce-a982-d71dd5a0fc5c")
-		(property "Reference" "R?"
+		(property "Reference" "R23"
 			(at 481.076 192.024 0)
 			(effects
 				(font
@@ -24856,7 +24858,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -24871,7 +24873,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f0c9a03-097e-452b-9c27-d12f531563d5")
-		(property "Reference" "C?"
+		(property "Reference" "C74"
 			(at 588.264 415.036 0)
 			(effects
 				(font
@@ -24925,7 +24927,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C74")
 					(unit 1)
 				)
 			)
@@ -25005,7 +25007,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31199145-6ce2-4c11-ac7a-a075e100b579")
-		(property "Reference" "C?"
+		(property "Reference" "C61"
 			(at 552.704 422.656 0)
 			(effects
 				(font
@@ -25059,7 +25061,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -25074,7 +25076,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31c42ae0-20ee-49a8-bb46-223f0340a8e7")
-		(property "Reference" "C?"
+		(property "Reference" "C103"
 			(at 711.2 227.076 0)
 			(effects
 				(font
@@ -25128,7 +25130,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C103")
 					(unit 1)
 				)
 			)
@@ -25144,7 +25146,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "346e71c1-0ced-49d5-8689-c966415d876c")
-		(property "Reference" "D?"
+		(property "Reference" "D3"
 			(at 552.196 303.276 0)
 			(effects
 				(font
@@ -25199,7 +25201,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "D?")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -25279,7 +25281,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "381d2676-344a-4a3a-ac97-84bcae8ba118")
-		(property "Reference" "R?"
+		(property "Reference" "R71"
 			(at 777.24 407.416 90)
 			(effects
 				(font
@@ -25331,7 +25333,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -25542,7 +25544,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f36abb1-3a59-46b0-a613-2ada2f4cd26c")
-		(property "Reference" "R?"
+		(property "Reference" "R41"
 			(at 598.932 415.036 0)
 			(effects
 				(font
@@ -25596,7 +25598,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -25611,7 +25613,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3f49c7eb-cce8-47f2-84a5-94db45e9633a")
-		(property "Reference" "R?"
+		(property "Reference" "R26"
 			(at 555.752 286.004 0)
 			(effects
 				(font
@@ -25665,7 +25667,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -25811,7 +25813,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ff69386-0d6b-4f87-8918-c92ced869247")
-		(property "Reference" "Q?"
+		(property "Reference" "Q12"
 			(at 684.784 410.464 0)
 			(effects
 				(font
@@ -25868,7 +25870,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q12")
 					(unit 1)
 				)
 			)
@@ -25948,7 +25950,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "423558a5-e4e3-4efc-a6d3-4bc76509e56c")
-		(property "Reference" "R?"
+		(property "Reference" "R60"
 			(at 628.904 501.142 90)
 			(effects
 				(font
@@ -26000,7 +26002,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -26015,7 +26017,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "426cfc16-d975-4e97-8157-f307478fdd32")
-		(property "Reference" "R?"
+		(property "Reference" "R32"
 			(at 563.88 518.1599 0)
 			(effects
 				(font
@@ -26069,7 +26071,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -26149,7 +26151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43a2529b-05c4-40b6-923a-87fad70f0969")
-		(property "Reference" "R?"
+		(property "Reference" "R63"
 			(at 689.864 507.492 90)
 			(effects
 				(font
@@ -26201,7 +26203,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -26281,7 +26283,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43d85664-b570-4411-93e2-a3d8b78c6a9a")
-		(property "Reference" "C?"
+		(property "Reference" "C115"
 			(at 745.744 415.036 0)
 			(effects
 				(font
@@ -26335,7 +26337,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C115")
 					(unit 1)
 				)
 			)
@@ -26350,7 +26352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "443a3610-99ea-459c-8767-f51cec30bd92")
-		(property "Reference" "R?"
+		(property "Reference" "R12"
 			(at 434.086 320.294 90)
 			(effects
 				(font
@@ -26402,7 +26404,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -26483,7 +26485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44828790-a545-41f8-81e7-0254a34b9663")
-		(property "Reference" "Q?"
+		(property "Reference" "Q3"
 			(at 610.87 240.03 0)
 			(effects
 				(font
@@ -26538,7 +26540,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -26619,7 +26621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "45cdd911-cadd-402c-855b-0a26883b5459")
-		(property "Reference" "R?"
+		(property "Reference" "R54"
 			(at 624.332 261.874 0)
 			(effects
 				(font
@@ -26673,7 +26675,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -26754,7 +26756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48b0cd51-4c12-4fbc-bd4b-85223b8a8513")
-		(property "Reference" "Q?"
+		(property "Reference" "Q2"
 			(at 608.076 340.36 0)
 			(effects
 				(font
@@ -26809,7 +26811,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -26889,7 +26891,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ba0b267-3437-4f01-a6fa-e45a6ae0e121")
-		(property "Reference" "C?"
+		(property "Reference" "C59"
 			(at 548.894 192.786 0)
 			(effects
 				(font
@@ -26943,7 +26945,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -26959,7 +26961,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d5b5d11-3b6a-4ef4-9fd0-ae5ca9886b6f")
-		(property "Reference" "Q?"
+		(property "Reference" "Q1"
 			(at 608.076 280.67 0)
 			(effects
 				(font
@@ -27014,7 +27016,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -27094,7 +27096,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ecc6eec-8de0-4361-90f6-359a0f75a7e6")
-		(property "Reference" "C?"
+		(property "Reference" "C126"
 			(at 779.018 296.164 90)
 			(effects
 				(font
@@ -27146,7 +27148,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C126")
 					(unit 1)
 				)
 			)
@@ -27226,7 +27228,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f0b0313-2fb1-4c5f-a668-7e6c856eb4ab")
-		(property "Reference" "R?"
+		(property "Reference" "R6"
 			(at 422.402 271.78 90)
 			(effects
 				(font
@@ -27278,7 +27280,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -27358,7 +27360,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4fc390d5-376e-40a0-8c52-c4574069360e")
-		(property "Reference" "U?"
+		(property "Reference" "U14"
 			(at 737.616 245.11 0)
 			(effects
 				(font
@@ -27469,7 +27471,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -27550,7 +27552,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "520b2e39-8654-4e52-b5ce-2856cc5e1383")
-		(property "Reference" "R?"
+		(property "Reference" "R21"
 			(at 468.376 192.024 0)
 			(effects
 				(font
@@ -27604,7 +27606,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -27619,7 +27621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "527c3fb9-a441-4b50-b325-cc3e1167e29f")
-		(property "Reference" "C?"
+		(property "Reference" "C69"
 			(at 582.93 327.406 0)
 			(effects
 				(font
@@ -27673,7 +27675,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -27753,7 +27755,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "53a54c3b-934c-4abe-a2c3-f01c389d2092")
-		(property "Reference" "R?"
+		(property "Reference" "R8"
 			(at 427.228 274.574 0)
 			(effects
 				(font
@@ -27807,7 +27809,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -27822,7 +27824,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "558b648c-1a84-4cd9-8628-301439a34cd1")
-		(property "Reference" "C?"
+		(property "Reference" "C85"
 			(at 607.314 517.906 0)
 			(effects
 				(font
@@ -27874,7 +27876,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C85")
 					(unit 1)
 				)
 			)
@@ -27889,7 +27891,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "55d50ac9-1a37-4f62-a421-645ab05b7443")
-		(property "Reference" "C?"
+		(property "Reference" "C123"
 			(at 778.256 193.294 90)
 			(effects
 				(font
@@ -27941,7 +27943,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C123")
 					(unit 1)
 				)
 			)
@@ -27956,7 +27958,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "562ad984-f263-4d3d-8a4f-1e6bd6f342a2")
-		(property "Reference" "R?"
+		(property "Reference" "R34"
 			(at 565.912 415.036 0)
 			(effects
 				(font
@@ -28010,7 +28012,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -28090,7 +28092,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "568dd454-344f-4894-b7b2-1bb170f6a9e3")
-		(property "Reference" "C?"
+		(property "Reference" "C81"
 			(at 602.234 308.356 0)
 			(effects
 				(font
@@ -28144,7 +28146,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -28161,7 +28163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56a30ce5-81db-4e9f-bc56-f336383aea18")
-		(property "Reference" "Q?"
+		(property "Reference" "Q4"
 			(at 610.87 299.72 0)
 			(effects
 				(font
@@ -28216,7 +28218,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -28231,7 +28233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "56da52e3-7e45-4767-903e-0f763910a56a")
-		(property "Reference" "R?"
+		(property "Reference" "R17"
 			(at 455.422 192.024 0)
 			(effects
 				(font
@@ -28285,7 +28287,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -28431,7 +28433,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ca8120e-b448-4aac-a541-9b7bfde034f2")
-		(property "Reference" "C?"
+		(property "Reference" "C102"
 			(at 709.93 454.152 0)
 			(effects
 				(font
@@ -28485,7 +28487,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C102")
 					(unit 1)
 				)
 			)
@@ -28500,7 +28502,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5da028db-9c87-45a1-8b1f-28e3e968bfbb")
-		(property "Reference" "C?"
+		(property "Reference" "C137"
 			(at 788.924 415.036 0)
 			(effects
 				(font
@@ -28554,7 +28556,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C137")
 					(unit 1)
 				)
 			)
@@ -28634,7 +28636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f334841-f5f0-407b-ac0a-c5ee246549be")
-		(property "Reference" "U?"
+		(property "Reference" "U5"
 			(at 436.626 351.79 0)
 			(effects
 				(font
@@ -28730,7 +28732,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -28745,7 +28747,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5f67b8b1-c03b-4db6-856e-aac05ec986fa")
-		(property "Reference" "C?"
+		(property "Reference" "C141"
 			(at 805.18 243.586 0)
 			(effects
 				(font
@@ -28799,7 +28801,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C141")
 					(unit 1)
 				)
 			)
@@ -28814,7 +28816,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fcdb047-8679-4ad9-a078-e9fc09dc1fb4")
-		(property "Reference" "C?"
+		(property "Reference" "C41"
 			(at 438.912 246.634 90)
 			(effects
 				(font
@@ -28866,7 +28868,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -28881,7 +28883,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "60ed6048-fedc-4de9-bc43-242ba8154efd")
-		(property "Reference" "C?"
+		(property "Reference" "C97"
 			(at 655.574 422.656 0)
 			(effects
 				(font
@@ -28935,7 +28937,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C97")
 					(unit 1)
 				)
 			)
@@ -28950,7 +28952,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "617bf4a7-1d89-4d53-a6b7-604475cd69be")
-		(property "Reference" "C?"
+		(property "Reference" "C144"
 			(at 811.53 351.536 0)
 			(effects
 				(font
@@ -29004,7 +29006,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C144")
 					(unit 1)
 				)
 			)
@@ -29020,7 +29022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6198cb90-dd45-43af-ba81-c45230c72262")
-		(property "Reference" "D?"
+		(property "Reference" "D2"
 			(at 552.196 243.586 0)
 			(effects
 				(font
@@ -29075,7 +29077,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "D?")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -29090,7 +29092,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6441934a-d997-43f1-a245-1ba0bde3d440")
-		(property "Reference" "C?"
+		(property "Reference" "C84"
 			(at 603.504 477.52 90)
 			(effects
 				(font
@@ -29142,7 +29144,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C84")
 					(unit 1)
 				)
 			)
@@ -29157,7 +29159,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6492aa71-7d6c-474d-b159-073761cb7a50")
-		(property "Reference" "C?"
+		(property "Reference" "C52"
 			(at 483.87 263.906 0)
 			(effects
 				(font
@@ -29211,7 +29213,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -29226,7 +29228,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64a48650-8756-471c-bed9-9be06492b879")
-		(property "Reference" "U?"
+		(property "Reference" "U4"
 			(at 436.626 281.94 0)
 			(effects
 				(font
@@ -29322,7 +29324,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -29337,7 +29339,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "64c4f23b-162c-4529-89bd-8c53532e505e")
-		(property "Reference" "R?"
+		(property "Reference" "R69"
 			(at 762.508 331.724 90)
 			(effects
 				(font
@@ -29389,7 +29391,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -29404,7 +29406,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "654787c4-2305-47ca-b162-a0bd6766d004")
-		(property "Reference" "R?"
+		(property "Reference" "R36"
 			(at 570.992 327.914 0)
 			(effects
 				(font
@@ -29458,7 +29460,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -29473,7 +29475,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65ca9eaf-14e2-4074-97f2-895a291857a6")
-		(property "Reference" "C?"
+		(property "Reference" "C130"
 			(at 785.876 183.134 90)
 			(effects
 				(font
@@ -29525,7 +29527,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C130")
 					(unit 1)
 				)
 			)
@@ -29540,7 +29542,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65f09c31-6525-48df-9f82-1c92f7114e5c")
-		(property "Reference" "U?"
+		(property "Reference" "U8"
 			(at 537.21 506.73 0)
 			(effects
 				(font
@@ -29604,7 +29606,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -29619,7 +29621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6617417f-e1ba-432d-bb45-97163f9a5d86")
-		(property "Reference" "R?"
+		(property "Reference" "R64"
 			(at 706.12 487.172 0)
 			(effects
 				(font
@@ -29673,7 +29675,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -29688,7 +29690,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "6864e462-d819-4a12-9b23-0e5f545eec2a")
-		(property "Reference" "R?"
+		(property "Reference" "R20"
 			(at 462.026 192.024 0)
 			(effects
 				(font
@@ -29742,7 +29744,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -29757,7 +29759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68773ed5-3ebb-4d61-ba80-a0e83080b54d")
-		(property "Reference" "C?"
+		(property "Reference" "C109"
 			(at 720.344 415.036 0)
 			(effects
 				(font
@@ -29811,7 +29813,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C109")
 					(unit 1)
 				)
 			)
@@ -29819,15 +29821,15 @@
 	)
 	(symbol
 		(lib_id "mediacow:IS31FL3193")
-		(at 519.43 44.45 0)
+		(at 452.12 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "692a1bbc-07db-45e0-abd3-f2ea6b2267c1")
-		(property "Reference" "U?"
-			(at 513.842 34.544 0)
+		(property "Reference" "U7"
+			(at 446.532 138.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29835,7 +29837,7 @@
 			)
 		)
 		(property "Value" "IS31FL3193"
-			(at 523.494 34.544 0)
+			(at 456.184 138.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29843,7 +29845,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.75x2.7mm"
-			(at 521.97 40.64 0)
+			(at 454.66 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29852,7 +29854,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/1534/IS31FL3193_DS-3394902.pdf"
-			(at 521.97 40.64 0)
+			(at 454.66 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29861,7 +29863,7 @@
 			)
 		)
 		(property "Description" "3-CHANNEL FUN LED DRIVER"
-			(at 521.97 40.64 0)
+			(at 454.66 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29902,7 +29904,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -29982,7 +29984,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6afd3771-61b9-4e3d-8719-8ddb8f75ed4c")
-		(property "Reference" "C?"
+		(property "Reference" "C100"
 			(at 704.85 338.836 0)
 			(effects
 				(font
@@ -30036,7 +30038,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C100")
 					(unit 1)
 				)
 			)
@@ -30051,7 +30053,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6cfd56d8-953f-438a-a182-a1c321a80c82")
-		(property "Reference" "C?"
+		(property "Reference" "C78"
 			(at 598.424 467.614 90)
 			(effects
 				(font
@@ -30103,7 +30105,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -30184,7 +30186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6fcdde89-3d29-4a17-b16b-587f6c6b73ab")
-		(property "Reference" "R?"
+		(property "Reference" "R66"
 			(at 721.106 469.9 0)
 			(effects
 				(font
@@ -30238,7 +30240,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -30253,7 +30255,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70fb1229-2cd3-40d1-80df-04545b7e733c")
-		(property "Reference" "C?"
+		(property "Reference" "C65"
 			(at 572.77 517.906 0)
 			(effects
 				(font
@@ -30305,7 +30307,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C65")
 					(unit 1)
 				)
 			)
@@ -30320,7 +30322,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7272cadd-1fc9-474c-b789-27034418d7d0")
-		(property "Reference" "C?"
+		(property "Reference" "C55"
 			(at 543.56 180.086 0)
 			(effects
 				(font
@@ -30374,7 +30376,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -30586,7 +30588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "764e7a91-be72-438f-9eac-d662da770b1a")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at 433.07 205.7399 0)
 			(effects
 				(font
@@ -30658,7 +30660,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -30673,7 +30675,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "76527086-a892-4d42-a7be-f840593fd57c")
-		(property "Reference" "C?"
+		(property "Reference" "C40"
 			(at 428.244 191.516 0)
 			(effects
 				(font
@@ -30727,7 +30729,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -30742,7 +30744,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7671ab7a-abbe-4b82-bcf6-20fa28a7a2e1")
-		(property "Reference" "C?"
+		(property "Reference" "C134"
 			(at 786.638 293.624 90)
 			(effects
 				(font
@@ -30794,7 +30796,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C134")
 					(unit 1)
 				)
 			)
@@ -30809,7 +30811,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "79662828-727c-46d5-8e2a-3c6a7add622a")
-		(property "Reference" "C?"
+		(property "Reference" "C89"
 			(at 620.014 248.666 0)
 			(effects
 				(font
@@ -30863,7 +30865,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C89")
 					(unit 1)
 				)
 			)
@@ -30943,7 +30945,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a0070dd-309c-4e92-b50a-5c718543f480")
-		(property "Reference" "R?"
+		(property "Reference" "R49"
 			(at 607.822 482.854 90)
 			(effects
 				(font
@@ -30995,7 +30997,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -31075,7 +31077,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a7fd998-bbb8-4b62-a251-99fc6ff26ee8")
-		(property "Reference" "C?"
+		(property "Reference" "C143"
 			(at 811.53 243.586 0)
 			(effects
 				(font
@@ -31129,7 +31131,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C143")
 					(unit 1)
 				)
 			)
@@ -31209,7 +31211,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c352358-4f50-4d6b-9b13-7eaa59cfd66d")
-		(property "Reference" "R?"
+		(property "Reference" "R59"
 			(at 628.904 497.332 90)
 			(effects
 				(font
@@ -31261,7 +31263,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -31276,7 +31278,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c6bd004-f5e1-4bda-b14b-2c0aa7dea705")
-		(property "Reference" "C?"
+		(property "Reference" "C42"
 			(at 438.912 316.484 90)
 			(effects
 				(font
@@ -31328,7 +31330,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -31539,7 +31541,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7db281f5-f9e0-4029-b877-db246392a02d")
-		(property "Reference" "C?"
+		(property "Reference" "C139"
 			(at 798.83 243.586 0)
 			(effects
 				(font
@@ -31593,7 +31595,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C139")
 					(unit 1)
 				)
 			)
@@ -31609,7 +31611,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ef0cccb-06fa-41e2-a5de-ecf52d5ad4fd")
-		(property "Reference" "Q?"
+		(property "Reference" "Q7"
 			(at 636.27 415.036 0)
 			(effects
 				(font
@@ -31666,7 +31668,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q7")
 					(unit 1)
 				)
 			)
@@ -31811,7 +31813,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ff9fca1-2dd8-46e2-a3d2-25bcec2e42c0")
-		(property "Reference" "C?"
+		(property "Reference" "C113"
 			(at 735.584 415.036 0)
 			(effects
 				(font
@@ -31865,7 +31867,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C113")
 					(unit 1)
 				)
 			)
@@ -31945,7 +31947,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81acae58-76f7-4c03-8828-47cc4a3881f8")
-		(property "Reference" "C?"
+		(property "Reference" "C82"
 			(at 602.234 422.656 0)
 			(effects
 				(font
@@ -31999,7 +32001,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -32014,7 +32016,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82bd8a3c-ea94-4696-b84a-544d15e28b62")
-		(property "Reference" "R?"
+		(property "Reference" "R44"
 			(at 606.552 331.47 0)
 			(effects
 				(font
@@ -32068,7 +32070,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -32083,7 +32085,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82cc1c8f-bce1-4436-82d8-b0f8d216bcda")
-		(property "Reference" "C?"
+		(property "Reference" "C119"
 			(at 767.842 421.386 0)
 			(effects
 				(font
@@ -32135,7 +32137,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C119")
 					(unit 1)
 				)
 			)
@@ -32150,7 +32152,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82d2df4c-df21-41b8-9f21-59616ae94763")
-		(property "Reference" "R?"
+		(property "Reference" "R18"
 			(at 459.232 279.146 0)
 			(effects
 				(font
@@ -32204,7 +32206,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -32219,7 +32221,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "830f89ea-3a75-43bf-8b3f-4e360c42d52a")
-		(property "Reference" "R?"
+		(property "Reference" "R50"
 			(at 612.902 278.384 0)
 			(effects
 				(font
@@ -32273,7 +32275,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -32288,7 +32290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83620897-0573-442d-a0c1-ff49e139acf1")
-		(property "Reference" "C?"
+		(property "Reference" "C118"
 			(at 763.27 354.076 0)
 			(effects
 				(font
@@ -32342,7 +32344,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C118")
 					(unit 1)
 				)
 			)
@@ -32357,7 +32359,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8635aaf8-3993-4425-b77f-45b68fca214b")
-		(property "Reference" "C?"
+		(property "Reference" "C94"
 			(at 644.144 308.356 0)
 			(effects
 				(font
@@ -32411,7 +32413,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C94")
 					(unit 1)
 				)
 			)
@@ -32426,7 +32428,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8638d097-52ed-4733-8fcb-2e63edcbaae8")
-		(property "Reference" "C?"
+		(property "Reference" "C43"
 			(at 450.342 246.634 90)
 			(effects
 				(font
@@ -32478,7 +32480,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -32493,7 +32495,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86460205-f75b-4766-a9ee-a007cf08790e")
-		(property "Reference" "C?"
+		(property "Reference" "C68"
 			(at 582.93 267.716 0)
 			(effects
 				(font
@@ -32547,7 +32549,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C68")
 					(unit 1)
 				)
 			)
@@ -32562,7 +32564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87ad28dd-824b-448e-952b-03334a57493c")
-		(property "Reference" "R?"
+		(property "Reference" "R11"
 			(at 434.086 250.444 90)
 			(effects
 				(font
@@ -32614,7 +32616,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -32629,7 +32631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87f58b9a-af54-404d-a9c4-f43b878f1731")
-		(property "Reference" "R?"
+		(property "Reference" "R72"
 			(at 783.082 421.64 0)
 			(effects
 				(font
@@ -32683,7 +32685,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -32698,7 +32700,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88584960-1d21-49c9-a054-10a28e52edc1")
-		(property "Reference" "C?"
+		(property "Reference" "C110"
 			(at 720.09 487.172 0)
 			(effects
 				(font
@@ -32752,7 +32754,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C110")
 					(unit 1)
 				)
 			)
@@ -32832,7 +32834,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c05d2a8-410f-4761-9fe1-7da1fff6f0e7")
-		(property "Reference" "C?"
+		(property "Reference" "C104"
 			(at 711.2 338.836 0)
 			(effects
 				(font
@@ -32886,7 +32888,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C104")
 					(unit 1)
 				)
 			)
@@ -32902,7 +32904,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c16eadc-b1c0-457b-afcd-a1c924fda462")
-		(property "Reference" "U?"
+		(property "Reference" "U19"
 			(at 773.684 260.604 0)
 			(effects
 				(font
@@ -32978,7 +32980,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U19")
 					(unit 1)
 				)
 			)
@@ -32993,7 +32995,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c762ab7-bc48-45bd-9b1f-219a6c79d4b5")
-		(property "Reference" "C?"
+		(property "Reference" "C111"
 			(at 725.424 415.036 0)
 			(effects
 				(font
@@ -33047,7 +33049,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C111")
 					(unit 1)
 				)
 			)
@@ -33055,7 +33057,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 551.18 45.72 0)
+		(at 483.87 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33063,7 +33065,7 @@
 		(dnp no)
 		(uuid "8d69b426-0a4f-4bcd-aead-08c3aad3a510")
 		(property "Reference" "#PWR037"
-			(at 551.18 52.07 0)
+			(at 483.87 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33072,7 +33074,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 551.18 49.276 0)
+			(at 483.87 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33080,7 +33082,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 551.18 45.72 0)
+			(at 483.87 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33089,7 +33091,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 551.18 45.72 0)
+			(at 483.87 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33098,7 +33100,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 551.18 45.72 0)
+			(at 483.87 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33127,7 +33129,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e77da61-5298-495c-8984-baa6382449da")
-		(property "Reference" "J?"
+		(property "Reference" "J6"
 			(at 810.26 345.44 0)
 			(effects
 				(font
@@ -33248,7 +33250,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "J?")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -33329,7 +33331,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "91c6f26a-4b02-4a5e-919a-ca5e7b20cd26")
-		(property "Reference" "C?"
+		(property "Reference" "C131"
 			(at 785.876 190.754 90)
 			(effects
 				(font
@@ -33381,7 +33383,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C131")
 					(unit 1)
 				)
 			)
@@ -33397,7 +33399,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92b4cbf9-3272-4aeb-8546-715eec8c911d")
-		(property "Reference" "U?"
+		(property "Reference" "U18"
 			(at 773.684 148.844 0)
 			(effects
 				(font
@@ -33473,7 +33475,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U18")
 					(unit 1)
 				)
 			)
@@ -33488,7 +33490,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "92d4ae6a-98b7-4394-bc80-6b6431e21fb2")
-		(property "Reference" "R?"
+		(property "Reference" "R28"
 			(at 563.372 268.224 0)
 			(effects
 				(font
@@ -33542,7 +33544,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -33557,7 +33559,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "933e353e-ce5b-4959-ad63-0d9837fecbb9")
-		(property "Reference" "C?"
+		(property "Reference" "C45"
 			(at 467.614 279.146 0)
 			(effects
 				(font
@@ -33611,7 +33613,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -33627,7 +33629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94adb361-0212-4f06-accb-d2980cdbf354")
-		(property "Reference" "R?"
+		(property "Reference" "R42"
 			(at 603.25 406.4 90)
 			(effects
 				(font
@@ -33679,7 +33681,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -33694,7 +33696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "953143e5-9e3d-4e34-854f-a82fc8b7c990")
-		(property "Reference" "R?"
+		(property "Reference" "R48"
 			(at 606.806 467.614 90)
 			(effects
 				(font
@@ -33746,7 +33748,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -33819,15 +33821,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 551.18 43.18 0)
+		(at 483.87 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "95db40e7-bf13-4b79-aab0-af219f0ceac7")
-		(property "Reference" "C?"
-			(at 551.18 41.656 0)
+		(property "Reference" "C60"
+			(at 483.87 145.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33836,7 +33838,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 551.434 44.958 0)
+			(at 484.124 149.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33845,7 +33847,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 551.18 43.18 0)
+			(at 483.87 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33854,7 +33856,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 551.18 43.18 0)
+			(at 483.87 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33863,7 +33865,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 551.18 43.18 0)
+			(at 483.87 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33880,7 +33882,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -33895,7 +33897,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "968a5b6e-bdd8-4a02-aae2-c7eee03942f2")
-		(property "Reference" "R?"
+		(property "Reference" "R29"
 			(at 563.372 286.004 0)
 			(effects
 				(font
@@ -33949,7 +33951,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -33964,7 +33966,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96d27b44-baac-4f13-91ca-08e4e2b851f6")
-		(property "Reference" "C?"
+		(property "Reference" "C49"
 			(at 478.79 263.906 0)
 			(effects
 				(font
@@ -34018,7 +34020,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -34163,7 +34165,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a1af89c-ad80-4171-9fb7-ccae2699e63a")
-		(property "Reference" "C?"
+		(property "Reference" "C117"
 			(at 763.27 242.316 0)
 			(effects
 				(font
@@ -34217,7 +34219,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C117")
 					(unit 1)
 				)
 			)
@@ -34232,7 +34234,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9a3c2936-2d43-41f3-b07f-6831e9147435")
-		(property "Reference" "C?"
+		(property "Reference" "C122"
 			(at 778.256 185.674 90)
 			(effects
 				(font
@@ -34284,7 +34286,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C122")
 					(unit 1)
 				)
 			)
@@ -34299,7 +34301,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9bc7329b-9dc5-458d-b8a2-3e6f92b2f156")
-		(property "Reference" "C?"
+		(property "Reference" "C114"
 			(at 740.664 415.036 0)
 			(effects
 				(font
@@ -34353,7 +34355,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C114")
 					(unit 1)
 				)
 			)
@@ -34368,7 +34370,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c1ddae5-2c26-48b4-b1cc-971d850b4e9b")
-		(property "Reference" "C?"
+		(property "Reference" "C66"
 			(at 573.024 415.036 0)
 			(effects
 				(font
@@ -34422,7 +34424,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C66")
 					(unit 1)
 				)
 			)
@@ -34502,7 +34504,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d410177-8f41-4ebd-8025-a21188e7124c")
-		(property "Reference" "C?"
+		(property "Reference" "C132"
 			(at 785.876 198.374 90)
 			(effects
 				(font
@@ -34554,7 +34556,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C132")
 					(unit 1)
 				)
 			)
@@ -34635,7 +34637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ea13693-fd3f-4557-b4c6-833fe9339409")
-		(property "Reference" "L?"
+		(property "Reference" "L3"
 			(at 444.5 242.57 90)
 			(effects
 				(font
@@ -34687,7 +34689,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "L?")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -34702,7 +34704,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f32a016-67bc-4da3-994e-abc7c41c0c67")
-		(property "Reference" "R?"
+		(property "Reference" "R68"
 			(at 762.508 219.964 90)
 			(effects
 				(font
@@ -34754,7 +34756,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -34769,7 +34771,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a117e0d3-9f26-4f67-b6c0-a4a97aa5ec7f")
-		(property "Reference" "R?"
+		(property "Reference" "R70"
 			(at 772.922 421.64 0)
 			(effects
 				(font
@@ -34823,7 +34825,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -34838,7 +34840,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a19707fe-9de0-4c15-9c6b-792c7e10eab9")
-		(property "Reference" "R?"
+		(property "Reference" "R46"
 			(at 602.488 491.49 90)
 			(effects
 				(font
@@ -34890,7 +34892,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -34970,7 +34972,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a23b9da7-5472-42de-a7c8-7cc8d58c9d8d")
-		(property "Reference" "C?"
+		(property "Reference" "C62"
 			(at 559.054 422.656 0)
 			(effects
 				(font
@@ -35024,7 +35026,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C62")
 					(unit 1)
 				)
 			)
@@ -35039,7 +35041,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a343d7a3-6afc-412d-991c-7867e72fbcf2")
-		(property "Reference" "C?"
+		(property "Reference" "C92"
 			(at 624.84 216.916 0)
 			(effects
 				(font
@@ -35093,7 +35095,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C92")
 					(unit 1)
 				)
 			)
@@ -35108,7 +35110,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a475f873-a883-45dc-adcf-db0583b400e4")
-		(property "Reference" "C?"
+		(property "Reference" "C75"
 			(at 592.074 422.656 0)
 			(effects
 				(font
@@ -35162,7 +35164,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C75")
 					(unit 1)
 				)
 			)
@@ -35177,7 +35179,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "a4ee3a71-0361-4c87-939f-089b1a3c5e0e")
-		(property "Reference" "R?"
+		(property "Reference" "R14"
 			(at 440.944 397.764 0)
 			(effects
 				(font
@@ -35229,7 +35231,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -35244,7 +35246,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5333633-8442-448a-a9a1-1ef111d85a4c")
-		(property "Reference" "C?"
+		(property "Reference" "C44"
 			(at 450.342 316.484 90)
 			(effects
 				(font
@@ -35296,7 +35298,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -35311,7 +35313,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a6e6111d-9323-41d3-bbbf-f2a8318046bd")
-		(property "Reference" "C?"
+		(property "Reference" "C87"
 			(at 614.68 415.036 0)
 			(effects
 				(font
@@ -35365,7 +35367,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C87")
 					(unit 1)
 				)
 			)
@@ -35380,7 +35382,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a734d0ce-38e7-420d-9ca1-4dd8d5a905e7")
-		(property "Reference" "C?"
+		(property "Reference" "C142"
 			(at 805.18 351.536 0)
 			(effects
 				(font
@@ -35434,7 +35436,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C142")
 					(unit 1)
 				)
 			)
@@ -35515,7 +35517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "acbf258c-785d-4f21-973b-15444ce9c25d")
-		(property "Reference" "C?"
+		(property "Reference" "C58"
 			(at 548.64 180.086 0)
 			(effects
 				(font
@@ -35569,7 +35571,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -35780,7 +35782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b12f38bd-5a9c-45e0-a350-1c4fc64af182")
-		(property "Reference" "C?"
+		(property "Reference" "C39"
 			(at 421.894 191.516 0)
 			(effects
 				(font
@@ -35834,7 +35836,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -35850,7 +35852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b23523f0-b9c1-45d1-a2e8-99153e34c0f0")
-		(property "Reference" "R?"
+		(property "Reference" "R67"
 			(at 730.25 487.6799 0)
 			(effects
 				(font
@@ -35904,7 +35906,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R67")
 					(unit 1)
 				)
 			)
@@ -35920,7 +35922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2c9222c-a6f5-485d-8e85-c75811ff8d82")
-		(property "Reference" "U?"
+		(property "Reference" "U11"
 			(at 591.82 118.11 0)
 			(effects
 				(font
@@ -36145,7 +36147,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -36160,7 +36162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b36072e6-0f3c-406d-98b0-307f2c4ed14e")
-		(property "Reference" "R?"
+		(property "Reference" "R7"
 			(at 422.402 341.63 90)
 			(effects
 				(font
@@ -36212,7 +36214,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -36220,7 +36222,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 528.32 55.88 0)
+		(at 461.01 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36228,7 +36230,7 @@
 		(dnp no)
 		(uuid "b39cc5f7-3ba7-40f3-81cb-e6a43914adaa")
 		(property "Reference" "#PWR034"
-			(at 528.32 62.23 0)
+			(at 461.01 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36237,7 +36239,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 528.32 59.436 0)
+			(at 461.01 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36245,7 +36247,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 528.32 55.88 0)
+			(at 461.01 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36254,7 +36256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 528.32 55.88 0)
+			(at 461.01 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36263,7 +36265,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 528.32 55.88 0)
+			(at 461.01 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36292,7 +36294,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b3efcdb0-135b-4bc2-881b-3d32766e6916")
-		(property "Reference" "C?"
+		(property "Reference" "C145"
 			(at 817.88 243.586 0)
 			(effects
 				(font
@@ -36346,7 +36348,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C145")
 					(unit 1)
 				)
 			)
@@ -36426,7 +36428,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b672bb32-1051-478d-9797-8c33fbc3cb01")
-		(property "Reference" "C?"
+		(property "Reference" "C95"
 			(at 647.7 204.216 0)
 			(effects
 				(font
@@ -36480,7 +36482,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C95")
 					(unit 1)
 				)
 			)
@@ -36560,7 +36562,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8729ff3-03c0-48c9-9550-dc7c60a19c5a")
-		(property "Reference" "R?"
+		(property "Reference" "R57"
 			(at 628.396 308.356 0)
 			(effects
 				(font
@@ -36614,7 +36616,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -36629,7 +36631,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8c4f7a2-50e1-4030-97dd-1083061da56a")
-		(property "Reference" "R?"
+		(property "Reference" "R39"
 			(at 594.36 271.78 0)
 			(effects
 				(font
@@ -36683,7 +36685,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -36698,7 +36700,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9c5c096-1728-424e-8c66-b6149da4b356")
-		(property "Reference" "R?"
+		(property "Reference" "R45"
 			(at 603.758 446.532 90)
 			(effects
 				(font
@@ -36750,7 +36752,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -36766,7 +36768,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba630052-6f0f-4b6b-92a3-3b2774581a20")
-		(property "Reference" "Q?"
+		(property "Reference" "Q10"
 			(at 639.318 426.72 90)
 			(effects
 				(font
@@ -36823,7 +36825,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q10")
 					(unit 1)
 				)
 			)
@@ -36831,15 +36833,15 @@
 	)
 	(symbol
 		(lib_id "Device:LED_RABG")
-		(at 542.29 40.64 0)
+		(at 474.98 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "bae64507-9ea8-4091-8f54-f339d4b90721")
-		(property "Reference" "D?"
-			(at 542.29 26.67 0)
+		(property "Reference" "D1"
+			(at 474.98 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36847,7 +36849,7 @@
 			)
 		)
 		(property "Value" "WP154A4SEJ3VBDZGC/CA"
-			(at 542.544 31.242 0)
+			(at 475.234 135.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36855,7 +36857,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical"
-			(at 542.29 41.91 0)
+			(at 474.98 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36864,7 +36866,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 542.29 41.91 0)
+			(at 474.98 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36873,7 +36875,7 @@
 			)
 		)
 		(property "Description" "RGB LED, red/anode/blue/green"
-			(at 542.29 40.64 0)
+			(at 474.98 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36896,7 +36898,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "D?")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -36911,7 +36913,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bd50080a-01ac-46e1-b4b9-2a57c32f2e81")
-		(property "Reference" "C?"
+		(property "Reference" "C73"
 			(at 586.994 308.356 0)
 			(effects
 				(font
@@ -36965,7 +36967,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -36980,7 +36982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bdff9883-299c-45b9-8880-b04beb01a5d5")
-		(property "Reference" "C?"
+		(property "Reference" "C72"
 			(at 586.994 248.666 0)
 			(effects
 				(font
@@ -37034,7 +37036,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C72")
 					(unit 1)
 				)
 			)
@@ -37049,7 +37051,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c1318837-6233-4a43-a9d2-4eba652dfb64")
-		(property "Reference" "C?"
+		(property "Reference" "C46"
 			(at 467.614 348.996 0)
 			(effects
 				(font
@@ -37103,7 +37105,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -37120,7 +37122,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2f04a38-c463-47e2-8f83-3fc1e86257cd")
-		(property "Reference" "Q?"
+		(property "Reference" "Q9"
 			(at 636.27 299.72 0)
 			(effects
 				(font
@@ -37175,7 +37177,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q9")
 					(unit 1)
 				)
 			)
@@ -37583,7 +37585,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c886ee2c-9bec-47ac-9d5d-c4342a36005f")
-		(property "Reference" "R?"
+		(property "Reference" "R52"
 			(at 614.934 451.104 0)
 			(effects
 				(font
@@ -37635,7 +37637,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -37708,7 +37710,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 506.73 55.88 0)
+		(at 439.42 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37716,7 +37718,7 @@
 		(dnp no)
 		(uuid "c9c5c374-709c-48fe-8fe2-72a46aada770")
 		(property "Reference" "#PWR029"
-			(at 506.73 62.23 0)
+			(at 439.42 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37725,7 +37727,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 506.73 59.182 0)
+			(at 439.42 163.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37733,7 +37735,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 506.73 55.88 0)
+			(at 439.42 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37742,7 +37744,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 506.73 55.88 0)
+			(at 439.42 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37751,7 +37753,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 506.73 55.88 0)
+			(at 439.42 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37780,7 +37782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca29bd46-e0a9-4927-b3b9-3798db38b376")
-		(property "Reference" "R?"
+		(property "Reference" "R9"
 			(at 427.228 344.424 0)
 			(effects
 				(font
@@ -37834,7 +37836,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -37915,7 +37917,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cad1fc24-a626-412c-915a-d908f7364e94")
-		(property "Reference" "R?"
+		(property "Reference" "R51"
 			(at 612.902 338.074 0)
 			(effects
 				(font
@@ -37969,7 +37971,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -38049,7 +38051,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc2ed54d-9e25-4f83-923c-7962f1963cb7")
-		(property "Reference" "C?"
+		(property "Reference" "C124"
 			(at 778.256 200.914 90)
 			(effects
 				(font
@@ -38101,7 +38103,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C124")
 					(unit 1)
 				)
 			)
@@ -38116,7 +38118,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc60c016-014e-4afb-af28-7ccc21106c39")
-		(property "Reference" "C?"
+		(property "Reference" "C98"
 			(at 665.48 422.656 0)
 			(effects
 				(font
@@ -38170,7 +38172,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C98")
 					(unit 1)
 				)
 			)
@@ -38315,7 +38317,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cea728b6-e1fc-4b55-8351-2fc0ea654542")
-		(property "Reference" "R?"
+		(property "Reference" "R38"
 			(at 574.548 353.314 90)
 			(effects
 				(font
@@ -38367,7 +38369,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -38383,7 +38385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf468ff9-64e3-4e02-a385-b27f818a7760")
-		(property "Reference" "R?"
+		(property "Reference" "R43"
 			(at 608.33 271.7799 0)
 			(effects
 				(font
@@ -38437,7 +38439,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -38518,7 +38520,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cfc30a99-e377-4456-a9a4-7368f7dd82a1")
-		(property "Reference" "Q?"
+		(property "Reference" "Q5"
 			(at 624.84 274.32 90)
 			(effects
 				(font
@@ -38575,7 +38577,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -38590,7 +38592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d057e0e1-f713-4845-a7ce-5999c1db3743")
-		(property "Reference" "C?"
+		(property "Reference" "C70"
 			(at 583.184 415.036 0)
 			(effects
 				(font
@@ -38644,7 +38646,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -38659,7 +38661,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d0e371b6-1938-4795-8fab-4305aeb4874d")
-		(property "Reference" "C?"
+		(property "Reference" "C93"
 			(at 644.144 248.666 0)
 			(effects
 				(font
@@ -38713,7 +38715,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C93")
 					(unit 1)
 				)
 			)
@@ -38728,7 +38730,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2b06805-1dd7-4971-a936-beec7a798230")
-		(property "Reference" "R?"
+		(property "Reference" "R65"
 			(at 721.106 464.82 0)
 			(effects
 				(font
@@ -38782,7 +38784,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -38797,7 +38799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2f6887f-c55d-47ba-9cff-ff8d7031370e")
-		(property "Reference" "R?"
+		(property "Reference" "R40"
 			(at 593.852 327.66 0)
 			(effects
 				(font
@@ -38851,7 +38853,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -38997,7 +38999,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d47cd7a7-cf8d-4932-a557-1c97f2308b36")
-		(property "Reference" "C?"
+		(property "Reference" "C96"
 			(at 652.78 204.216 0)
 			(effects
 				(font
@@ -39051,7 +39053,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C96")
 					(unit 1)
 				)
 			)
@@ -39066,7 +39068,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d57d819a-8d9f-4df3-a157-c5afb00ad0b9")
-		(property "Reference" "C?"
+		(property "Reference" "C121"
 			(at 778.51 178.054 90)
 			(effects
 				(font
@@ -39118,7 +39120,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C121")
 					(unit 1)
 				)
 			)
@@ -39134,7 +39136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d70e4037-b9d1-4617-8e4f-366aeb5d4294")
-		(property "Reference" "L?"
+		(property "Reference" "L4"
 			(at 444.5 312.42 90)
 			(effects
 				(font
@@ -39186,7 +39188,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "L?")
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -39201,7 +39203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d770311f-91ad-445c-bf6a-c25b88dacf0c")
-		(property "Reference" "U?"
+		(property "Reference" "U10"
 			(at 581.914 343.916 0)
 			(effects
 				(font
@@ -39262,7 +39264,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -39277,7 +39279,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7b60d2f-bf8a-4eb7-946c-ec797f5e0276")
-		(property "Reference" "C?"
+		(property "Reference" "C50"
 			(at 478.79 333.756 0)
 			(effects
 				(font
@@ -39331,7 +39333,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -39346,7 +39348,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d7c6b030-fd7a-4857-8789-ed08d8c951ab")
-		(property "Reference" "C?"
+		(property "Reference" "C133"
 			(at 786.638 286.004 90)
 			(effects
 				(font
@@ -39398,7 +39400,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C133")
 					(unit 1)
 				)
 			)
@@ -39544,7 +39546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8f1f336-120b-40cc-a576-88abffab6761")
-		(property "Reference" "R?"
+		(property "Reference" "R35"
 			(at 570.992 268.224 0)
 			(effects
 				(font
@@ -39598,7 +39600,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -39614,7 +39616,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9025ebe-244f-4e72-87a4-9b53a1ed2752")
-		(property "Reference" "U?"
+		(property "Reference" "U16"
 			(at 750.824 148.844 0)
 			(effects
 				(font
@@ -39690,7 +39692,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U16")
 					(unit 1)
 				)
 			)
@@ -39705,7 +39707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da6058d3-277d-484c-967d-93cceef80432")
-		(property "Reference" "R?"
+		(property "Reference" "R62"
 			(at 679.704 507.492 90)
 			(effects
 				(font
@@ -39757,7 +39759,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -39772,7 +39774,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dabbb9f2-27d9-45bf-bdf2-a0f0beea367c")
-		(property "Reference" "R?"
+		(property "Reference" "R16"
 			(at 449.326 320.294 90)
 			(effects
 				(font
@@ -39824,7 +39826,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -39839,7 +39841,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ddb24e70-5e70-4983-9544-aa3056fb6ce7")
-		(property "Reference" "C?"
+		(property "Reference" "C88"
 			(at 618.49 216.916 0)
 			(effects
 				(font
@@ -39893,7 +39895,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C88")
 					(unit 1)
 				)
 			)
@@ -39901,7 +39903,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 486.41 43.18 0)
+		(at 419.1 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39909,7 +39911,7 @@
 		(dnp no)
 		(uuid "ddcc265b-ee62-49e2-99b5-057780d9cf47")
 		(property "Reference" "#PWR026"
-			(at 486.41 49.53 0)
+			(at 419.1 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39918,7 +39920,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 486.41 46.736 0)
+			(at 419.1 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39926,7 +39928,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 486.41 43.18 0)
+			(at 419.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39935,7 +39937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 486.41 43.18 0)
+			(at 419.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39944,7 +39946,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 486.41 43.18 0)
+			(at 419.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40039,7 +40041,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de6610b7-295d-47e7-92bd-26883ba3a114")
-		(property "Reference" "Q?"
+		(property "Reference" "Q6"
 			(at 624.84 334.01 90)
 			(effects
 				(font
@@ -40096,7 +40098,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -40111,7 +40113,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dfcdae2a-1b4d-450f-97c2-4cc241b6fd03")
-		(property "Reference" "C?"
+		(property "Reference" "C140"
 			(at 798.83 351.536 0)
 			(effects
 				(font
@@ -40165,7 +40167,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C140")
 					(unit 1)
 				)
 			)
@@ -40182,7 +40184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e078a472-d7b5-4021-be4f-598340e57614")
-		(property "Reference" "Q?"
+		(property "Reference" "Q8"
 			(at 636.27 240.03 0)
 			(effects
 				(font
@@ -40237,7 +40239,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "Q?")
+					(reference "Q8")
 					(unit 1)
 				)
 			)
@@ -40317,7 +40319,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1f044dc-42d4-442d-b70d-471fe62367dd")
-		(property "Reference" "C?"
+		(property "Reference" "C129"
 			(at 786.638 175.514 90)
 			(effects
 				(font
@@ -40369,7 +40371,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C129")
 					(unit 1)
 				)
 			)
@@ -40384,7 +40386,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e218a134-33ba-4c03-b7d3-76a37231d110")
-		(property "Reference" "R?"
+		(property "Reference" "R33"
 			(at 563.88 523.2399 0)
 			(effects
 				(font
@@ -40438,7 +40440,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -40511,15 +40513,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 486.41 40.64 0)
+		(at 419.1 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "e2a1b9c0-eb6a-42aa-a1c6-a58eabe3b4cd")
-		(property "Reference" "C?"
-			(at 486.41 39.116 0)
+		(property "Reference" "C54"
+			(at 419.1 143.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40528,7 +40530,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 486.664 42.418 0)
+			(at 419.354 146.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40537,7 +40539,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 486.41 40.64 0)
+			(at 419.1 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40546,7 +40548,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 486.41 40.64 0)
+			(at 419.1 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40555,7 +40557,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 486.41 40.64 0)
+			(at 419.1 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40572,7 +40574,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -40653,7 +40655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2fbea5b-1a55-43ce-b390-e91665d1a9c0")
-		(property "Reference" "U?"
+		(property "Reference" "U12"
 			(at 595.63 510.54 0)
 			(effects
 				(font
@@ -40714,7 +40716,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "U?")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -40794,7 +40796,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e56528cf-7e0f-4385-ac31-1de7b60eee2e")
-		(property "Reference" "C?"
+		(property "Reference" "C53"
 			(at 483.87 333.756 0)
 			(effects
 				(font
@@ -40848,7 +40850,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -40856,15 +40858,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 481.33 40.64 0)
+		(at 414.02 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "e5a393d0-4c0f-48f6-8f36-1261c5afb61e")
-		(property "Reference" "C?"
-			(at 481.33 39.116 0)
+		(property "Reference" "C51"
+			(at 414.02 143.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40873,7 +40875,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 481.584 42.418 0)
+			(at 414.274 146.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40882,7 +40884,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 481.33 40.64 0)
+			(at 414.02 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40891,7 +40893,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 481.33 40.64 0)
+			(at 414.02 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40900,7 +40902,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 481.33 40.64 0)
+			(at 414.02 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40917,7 +40919,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -40997,7 +40999,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e733fc5e-fd82-4704-bb8f-d118d8897400")
-		(property "Reference" "C?"
+		(property "Reference" "C56"
 			(at 543.56 192.786 0)
 			(effects
 				(font
@@ -41051,7 +41053,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -41066,7 +41068,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7a702f7-8cad-4b61-b161-f0c07526ff3b")
-		(property "Reference" "C?"
+		(property "Reference" "C48"
 			(at 473.71 333.756 0)
 			(effects
 				(font
@@ -41120,7 +41122,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -41135,7 +41137,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb74e1bd-4147-4706-a770-526b972c2ab0")
-		(property "Reference" "C?"
+		(property "Reference" "C116"
 			(at 750.824 415.036 0)
 			(effects
 				(font
@@ -41189,7 +41191,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C116")
 					(unit 1)
 				)
 			)
@@ -41204,7 +41206,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ece99af4-0838-4675-88e2-77f14fa35808")
-		(property "Reference" "C?"
+		(property "Reference" "C76"
 			(at 593.344 248.666 0)
 			(effects
 				(font
@@ -41258,7 +41260,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -41273,7 +41275,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eee457d6-5784-460e-8930-25f4b335b938")
-		(property "Reference" "C?"
+		(property "Reference" "C120"
 			(at 774.954 415.544 90)
 			(effects
 				(font
@@ -41325,7 +41327,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C120")
 					(unit 1)
 				)
 			)
@@ -41340,7 +41342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f09a29db-2cfd-4079-97a6-1b24effb2bf7")
-		(property "Reference" "R?"
+		(property "Reference" "R13"
 			(at 434.086 387.604 90)
 			(effects
 				(font
@@ -41392,7 +41394,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -41407,7 +41409,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f1251d46-bf5d-4866-8be3-9aef658aa63e")
-		(property "Reference" "C?"
+		(property "Reference" "C80"
 			(at 602.234 248.666 0)
 			(effects
 				(font
@@ -41461,7 +41463,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C80")
 					(unit 1)
 				)
 			)
@@ -41541,7 +41543,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f74e82ff-83cb-4daf-baaf-aeda63c82360")
-		(property "Reference" "L?"
+		(property "Reference" "L6"
 			(at 658.368 409.702 90)
 			(effects
 				(font
@@ -41593,7 +41595,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "L?")
+					(reference "L6")
 					(unit 1)
 				)
 			)
@@ -41608,7 +41610,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f873668d-b1d9-4345-88f9-b04ea78025df")
-		(property "Reference" "R?"
+		(property "Reference" "R53"
 			(at 614.934 458.724 0)
 			(effects
 				(font
@@ -41660,7 +41662,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -41675,7 +41677,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8f01ed2-d0c3-4d35-b69c-89e51750f3f0")
-		(property "Reference" "R?"
+		(property "Reference" "R19"
 			(at 459.232 348.996 0)
 			(effects
 				(font
@@ -41729,7 +41731,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -41744,7 +41746,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f90ff344-9bbf-4f29-8f03-da315cec2c48")
-		(property "Reference" "C?"
+		(property "Reference" "C146"
 			(at 817.88 351.536 0)
 			(effects
 				(font
@@ -41798,7 +41800,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C146")
 					(unit 1)
 				)
 			)
@@ -41813,7 +41815,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f933e8d1-e296-49e3-b8c9-cfcc6c65dd8a")
-		(property "Reference" "C?"
+		(property "Reference" "C101"
 			(at 710.184 415.036 0)
 			(effects
 				(font
@@ -41867,7 +41869,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C101")
 					(unit 1)
 				)
 			)
@@ -41882,7 +41884,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fa6d1e7c-f3e5-4cd7-b82d-4c669da1fe71")
-		(property "Reference" "R?"
+		(property "Reference" "R15"
 			(at 449.326 250.444 90)
 			(effects
 				(font
@@ -41934,7 +41936,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -41949,7 +41951,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fad31a43-0b5e-497b-bc49-c1768e03234f")
-		(property "Reference" "R?"
+		(property "Reference" "R25"
 			(at 553.212 415.036 0)
 			(effects
 				(font
@@ -42003,7 +42005,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -42018,7 +42020,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb2010cc-7854-4c67-924e-1dba4d611358")
-		(property "Reference" "C?"
+		(property "Reference" "C127"
 			(at 779.018 303.784 90)
 			(effects
 				(font
@@ -42070,7 +42072,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C127")
 					(unit 1)
 				)
 			)
@@ -42085,7 +42087,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc043dc8-07e5-4d44-b7ba-873246515955")
-		(property "Reference" "C?"
+		(property "Reference" "C63"
 			(at 560.07 210.566 0)
 			(effects
 				(font
@@ -42139,7 +42141,7 @@
 		(instances
 			(project "mct2_lite"
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C63")
 					(unit 1)
 				)
 			)
@@ -42219,7 +42221,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fdbf49c4-6b21-463f-b3c9-56a91818dd27")
-		(property "Reference" "C?"
+		(property "Reference" "C91"
 			(at 621.03 415.036 0)
 			(effects
 				(font
@@ -42273,7 +42275,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "C?")
+					(reference "C91")
 					(unit 1)
 				)
 			)
@@ -42288,7 +42290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fdf481be-6792-4b7c-abc2-acef7373ee0d")
-		(property "Reference" "R?"
+		(property "Reference" "R58"
 			(at 628.904 493.522 90)
 			(effects
 				(font
@@ -42340,7 +42342,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/eb8a2ebe-1a22-48d5-8d40-fed94729eb9b"
-					(reference "R?")
+					(reference "R58")
 					(unit 1)
 				)
 			)

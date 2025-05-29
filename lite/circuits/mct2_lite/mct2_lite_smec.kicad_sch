@@ -3,10 +3,10 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "89d4e947-38d4-4456-98d6-6289ac717962")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "MediaCow Touch 2 \"Curitiba\" - SMEC")
-		(date "2025-03-23 - 2025-05-24")
+		(date "2025-03-23 - 2025-05-29")
 		(company "CTCL 2021-2025")
 	)
 	(lib_symbols
@@ -2152,493 +2152,9 @@
 			)
 		)
 	)
-	(global_label "SOM_PWRBTN"
-		(shape input)
-		(at 165.1 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "010742c7-7ba7-4f08-a0cb-1697e7109bc5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.5963 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_SIO_SLS_S3"
-		(shape input)
-		(at 165.1 134.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0293d27b-dbbc-4f39-b0ca-e58d0de58134")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.2097 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_I2C2_SDA"
-		(shape input)
-		(at 191.77 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "084086ab-8fee-4efc-bd1b-c1ac04e359fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.1442 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_FAN2_PWM"
-		(shape input)
-		(at 251.46 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "17b174d8-2679-4b69-b7f3-8af1d7a84903")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.2618 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_EXT1_EN"
-		(shape input)
-		(at 218.44 119.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1b306bba-8ca5-40ac-9a52-43a0ce2c36ec")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.4274 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TCP1_PPHV_EN"
-		(shape input)
-		(at 165.1 146.05 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "24cd6546-b07f-4cc4-8a48-05b08c14ff9b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.0239 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EC_PM_I2C_SDA"
-		(shape input)
-		(at 191.77 92.71 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "39f4cac0-d70b-49de-957d-e3dd2e3f4df9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.4313 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EC_PM_I2C_ALT"
-		(shape input)
-		(at 191.77 87.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "41412433-8f46-48f0-965f-869733e23763")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.9475 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_I2C2_SCL"
-		(shape input)
-		(at 191.77 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5db2f6dd-9523-4161-8961-3c604965bd44")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.0837 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_SIO_UART_TX"
-		(shape input)
-		(at 165.1 137.16 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6900baef-4461-446e-b0b7-3359a9830422")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.1449 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_FAN2_TAC"
-		(shape input)
-		(at 251.46 137.16 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6ea9d4de-7f29-4c75-afdf-cf9b3ca14988")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.2618 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_RSTBTN"
-		(shape input)
-		(at 165.1 129.54 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "71c9f8cb-a6a1-450f-9e9d-bda42ee19d88")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.1406 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_FAN1_PWM"
-		(shape input)
-		(at 251.46 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "73dc7431-112c-4f10-986f-82078da721fb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.2618 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_FAN1_TAC"
-		(shape input)
-		(at 251.46 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "75470e5e-3e0e-4e6f-bb2e-c3345119f5b4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.2618 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_EXT0_FLT"
-		(shape input)
-		(at 218.44 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7a808b1a-748e-42b2-9829-443172947f6e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.7903 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EC_PM_I2C_SCL"
-		(shape input)
-		(at 191.77 90.17 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9793dbaa-2df7-4018-bf1c-cbed007f7d8e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.3708 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_SIO_UART_RX"
-		(shape input)
-		(at 165.1 139.7 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9f7835c9-6fd6-4613-b59d-f78a6c519514")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.8425 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_SIO_SLS_S0"
-		(shape input)
-		(at 165.1 132.08 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a36d2f57-14d7-467e-80f0-d81eee00568b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.2097 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOM_TSENSE"
-		(shape input)
-		(at 251.46 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b58e80fc-2c23-4e29-90ba-9ab9a20a88d8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 266.4193 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TCP0_PPHV_EN"
-		(shape input)
-		(at 165.1 76.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b6ecd09d-a2e0-4025-a7c3-e1171cb9e76e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.0239 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_EXT1_FLT"
-		(shape input)
-		(at 218.44 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e088d5cf-0e68-4891-a9ba-9ec259361296")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.0322 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_EXT0_EN"
-		(shape input)
-		(at 218.44 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fe7aba6b-3424-4b23-b5bb-409cf6994ac3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.1855 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(symbol
 		(lib_id "MCU_ST_STM32L0:STM32L071V8Tx")
-		(at 102.87 96.52 0)
+		(at 168.91 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2646,8 +2162,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d64fe75-49a7-4d13-a994-32d85422a4f0")
-		(property "Reference" "U?"
-			(at 107.6041 165.1 0)
+		(property "Reference" "U28"
+			(at 173.6441 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2656,7 +2172,7 @@
 			)
 		)
 		(property "Value" "STM32L071V8Tx"
-			(at 107.6041 167.64 0)
+			(at 173.6441 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2665,7 +2181,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm"
-			(at 85.09 162.56 0)
+			(at 151.13 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2675,7 +2191,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32l071v8.pdf"
-			(at 102.87 96.52 0)
+			(at 168.91 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2684,7 +2200,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 20KB RAM, 32 MHz, 1.65-3.6V, 84 GPIO, LQFP100"
-			(at 102.87 96.52 0)
+			(at 168.91 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2995,7 +2511,7 @@
 		(instances
 			(project ""
 				(path "/caf0e9b0-a44c-4a4e-b706-dd9d72690bf9/4fc82f61-01b1-4681-aa2e-f64d0a637a2d"
-					(reference "U?")
+					(reference "U28")
 					(unit 1)
 				)
 			)

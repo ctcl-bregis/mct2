@@ -1,7 +1,7 @@
 // MediaCow Touch 2 Lite - CTCL 2021-2025
 // Purpose: Case design
 // Created: July 7, 2024
-// Modified: March 26, 2025
+// Modified: May 29, 2025
 
 // Units: mm
 
@@ -55,7 +55,6 @@ base_length = lcd_dims[1] + (case_post_size * 2) + (case_outer_wall_width * 2);
 base_dims = [base_width, base_length, base_height];
 
 include <mct2_base.scad>;
-include <mct2_smec_smd.scad>;
 include <mct2_dispmount.scad>;
 include <mct2_dispcover.scad>;
 
