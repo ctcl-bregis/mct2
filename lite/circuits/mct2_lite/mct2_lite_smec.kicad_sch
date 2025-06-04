@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "MediaCow Touch 2 \"Curitiba\" - SMEC")
-		(date "2025-03-23 - 2025-05-29")
+		(date "2025-03-23 - 2025-06-04")
 		(company "CTCL 2021-2025")
 	)
 	(lib_symbols
