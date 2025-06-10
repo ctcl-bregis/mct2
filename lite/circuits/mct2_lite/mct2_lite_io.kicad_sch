@@ -5150,7 +5150,7 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 137.16) (xy 496.57 137.16)
+			(xy 492.76 137.16) (xy 496.57 137.16)
 		)
 		(stroke
 			(width 0)
@@ -6770,7 +6770,7 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 132.08) (xy 496.57 132.08)
+			(xy 492.76 132.08) (xy 496.57 132.08)
 		)
 		(stroke
 			(width 0)
@@ -9316,7 +9316,7 @@
 	)
 	(global_label "AC_PORTA_L"
 		(shape input)
-		(at 494.03 137.16 180)
+		(at 492.76 137.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9326,7 +9326,7 @@
 		)
 		(uuid "e224dc9a-cba6-4577-80aa-d808e5958f7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.7962 137.16 0)
+			(at 478.5262 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9470,7 +9470,7 @@
 	)
 	(global_label "AC_PORTA_R"
 		(shape input)
-		(at 494.03 132.08 180)
+		(at 492.76 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9480,7 +9480,7 @@
 		)
 		(uuid "f862e5eb-4b16-4ce2-a94c-8e2dd2f2063a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 479.5543 132.08 0)
+			(at 478.2843 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10116,7 +10116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 410.21 149.86 0)
 			(effects
 				(font
@@ -11411,7 +11411,7 @@
 		(dnp no)
 		(uuid "42e23f84-9f35-4fab-8295-4064dac6066f")
 		(property "Reference" "R80"
-			(at 495.808 131.064 90)
+			(at 494.792 131.064 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11476,10 +11476,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "440bae58-a45e-454f-a67c-fe6885fb41ae")
 		(property "Reference" "R86"
-			(at 544.83 148.5899 0)
+			(at 543.306 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11488,7 +11487,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 544.83 151.1299 0)
+			(at 543.306 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11565,7 +11564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 410.21 137.16 0)
 			(effects
 				(font
@@ -12739,7 +12738,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 410.21 165.1 0)
 			(effects
 				(font
@@ -15204,7 +15203,7 @@
 		(dnp no)
 		(uuid "c1097065-7ba7-4317-b410-f135be3474bc")
 		(property "Reference" "R81"
-			(at 495.808 136.144 90)
+			(at 494.792 136.144 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15418,7 +15417,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 410.21 121.92 0)
 			(effects
 				(font
