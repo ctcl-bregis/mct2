@@ -1,0 +1,11 @@
+{
+    "title": "Firmware",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "BIOS and Firmware",
+    "icon": "",
+    "icontitle": "",
+    "content": "fw.md"
+}

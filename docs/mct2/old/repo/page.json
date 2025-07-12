@@ -1,0 +1,11 @@
+{
+    "title": "Repository Guide",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Display used in MediaCow Touch 2",
+    "icon": "/static/pages/projects/mct2/display/display_icon.webp",
+    "icontitle": "",
+    "content": "display.md"
+}

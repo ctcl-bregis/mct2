@@ -1,0 +1,11 @@
+{
+    "title": "SMEC",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "System Management Embedded Controller",
+    "icon": "/static/pages/projects/mct2/smec/smec_icon.webp",
+    "icontitle": "",
+    "content": "storage.md"
+}

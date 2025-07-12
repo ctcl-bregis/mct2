@@ -1,0 +1,11 @@
+{
+    "title": "Credits",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Who and what made MediaCow Touch 2 Possible",
+    "icon": "",
+    "icontitle": "",
+    "content": "credits.md"
+}

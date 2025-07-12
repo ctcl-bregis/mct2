@@ -1,0 +1,11 @@
+{
+    "title": "Circuit Design",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "MediaCow Touch 2 Lite - PCB design overview",
+    "icon": "",
+    "icontitle": "",
+    "content": "lite.md"
+}

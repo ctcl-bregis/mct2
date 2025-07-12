@@ -1,0 +1,11 @@
+{
+    "title": "Connectivity",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "About device external connectivity",
+    "icon": "",
+    "icontitle": "",
+    "content": "connectivity.md"
+}

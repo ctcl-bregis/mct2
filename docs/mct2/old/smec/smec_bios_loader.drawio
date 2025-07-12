@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram id="8e5TwRU_Y2Yzyy4SgUr-" name="Page-1">
+        <mxGraphModel dx="1216" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=4;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;startSize=0;endSize=0;" parent="1" source="2" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=4;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=8;endArrow=none;endFill=0;startSize=0;endSize=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="SMEC&lt;br&gt;SP7021" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="320" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="microSD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="MediaCow Touch 2 &quot;Paris&quot; - CTCL 2021-2025&lt;br&gt;Description: Logic diagram of the idea to load both SMEC's firmware and the system BIOS from a microSD card.&lt;br&gt;Created: December 27, 2024&lt;br&gt;Modified: January 27, 2025" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry width="260" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;rounded=0;" parent="1" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="380" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="LattePanda Mu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="280" width="160" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=4;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=8;endArrow=none;endFill=0;startSize=0;endSize=0;" parent="1" source="8" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="QSPI&lt;br style=&quot;font-size: 8px;&quot;&gt;switch" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="360" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="SOIC-8&lt;br style=&quot;font-size: 8px;&quot;&gt;Socket" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="300" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="QSPI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="360" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="QSPI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="360" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="SDIO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="270" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=none;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="280" width="80" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Optional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="260" width="80" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,11 @@
+{
+    "title": "Display",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Side-mounted Display",
+    "icon": "",
+    "icontitle": "",
+    "content": "display.md"
+}

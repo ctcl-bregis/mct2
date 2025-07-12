@@ -1,0 +1,11 @@
+{
+    "title": "Case",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Case design",
+    "icon": "/static/pages/projects/mct2/case/case_icon.webp",
+    "icontitle": "",
+    "content": "case.md"
+}

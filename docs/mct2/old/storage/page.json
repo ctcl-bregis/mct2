@@ -1,0 +1,11 @@
+{
+    "title": "Storage",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Data storage options",
+    "icon": "",
+    "icontitle": "",
+    "content": "storage.md"
+}

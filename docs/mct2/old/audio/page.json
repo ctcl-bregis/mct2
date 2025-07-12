@@ -1,0 +1,11 @@
+{
+    "title": "Audio",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Audio subsystem",
+    "icon": "",
+    "icontitle": "",
+    "content": "audio.md"
+}

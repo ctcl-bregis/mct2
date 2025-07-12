@@ -1,0 +1,11 @@
+{
+    "title": "Power",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Overview of power management systems",
+    "icon": "",
+    "icontitle": "",
+    "content": "power.md"
+}

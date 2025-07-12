@@ -1,0 +1,11 @@
+{
+    "title": "History",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "History of the project",
+    "icon": "/static/pages/projects/mct2/history/history_icon.webp",
+    "icontitle": "",
+    "content": "history.md"
+}

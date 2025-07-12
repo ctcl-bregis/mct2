@@ -1,0 +1,11 @@
+{
+    "title": "Circuit Design",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Documentation about the PCB design of MediaCow Touch 2",
+    "icon": "",
+    "icontitle": "",
+    "content": "pcb.md"
+}

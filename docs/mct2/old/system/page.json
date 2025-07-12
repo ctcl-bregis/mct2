@@ -1,0 +1,11 @@
+{
+    "title": "System",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Main compute element",
+    "icon": "/static/pages/projects/mct2/system/system_icon.webp",
+    "icontitle": "",
+    "content": "system.md"
+}

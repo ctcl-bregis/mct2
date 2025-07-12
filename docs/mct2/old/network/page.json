@@ -1,0 +1,11 @@
+{
+    "title": "Network",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "About device network connectivity",
+    "icon": "",
+    "icontitle": "",
+    "content": "network.md"
+}

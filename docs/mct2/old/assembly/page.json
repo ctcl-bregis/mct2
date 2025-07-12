@@ -1,0 +1,11 @@
+{
+    "title": "Assembly and Manufacturing",
+    "theme": "default",
+    "startdate": null,
+    "enddate": null,
+    "dateformat": "year",
+    "desc": "Device assembly and manufacturing",
+    "icon": "",
+    "icontitle": "",
+    "content": "assembly.md"
+}
